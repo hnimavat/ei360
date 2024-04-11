@@ -1,0 +1,24 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.financialWrapper{
+  padding: 16px 14px;
+
+  &.financialHeight{
+    height: 295px;
+  }
+  
+  .accountSectionTitle{
+    margin-bottom: 10px;
+  }
+
+}
+canvas{
+  height: 100% !important;
+  width: 100% !important;
+}
+.abc canvas{
+  height: 240px !important;
+}
+.xyz canvas{
+  height: auto !important;
+}

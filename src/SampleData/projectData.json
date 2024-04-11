@@ -1,0 +1,4538 @@
+{
+    "status": "Success",
+    "message": "Data Retrive Successfully.",
+    "data": [
+        {
+            "projectName": "Comark production",
+            "clientName": "COMARK LLC"
+        },
+        {
+            "projectName": "Aero_config",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "MCSdkTesting Services",
+            "clientName": "TEXAS INSTRUMENTS IN"
+        },
+        {
+            "projectName": "25_Emergency Response System",
+            "clientName": "CISCO SYSTEMS INC"
+        },
+        {
+            "projectName": "126_IFE",
+            "clientName": "THALES AVIONICS INC"
+        },
+        {
+            "projectName": "58_Home Security & Automation",
+            "clientName": "Comcast Cable Communications"
+        },
+        {
+            "projectName": "ProjectA",
+            "clientName": "Toshiba Electronic Device&Storage C"
+        },
+        {
+            "projectName": "Wharfrock_SS",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "163_ERAGON625",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "101_CIU_FMC_4212",
+            "clientName": "ROCKWELL COLLINS DEUTSCHLAND GMBH"
+        },
+        {
+            "projectName": "Nvidia Build",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Gen5 IP Verification",
+            "clientName": "INFINERA INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "SNPS_IP_HARDENING_Hyderabad",
+            "clientName": "SYNOPSYS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "Rimo Host IF Verificaiton",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "Low Pin Count Maui",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "iMX8X ML reference design project",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "ADI_TOF_LIDAR",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "SOM820A",
+            "clientName": "BYTON NORTH AMERICA CORPORATION"
+        },
+        {
+            "projectName": "Oriole",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "SYNEO",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "S1_16nmASIC",
+            "clientName": "FUNGIBLEINC"
+        },
+        {
+            "projectName": "NRE - iMX8_HMI_Platform project",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "NRE - iMX8X ML reference design project",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "NRE - CAD_Configuration",
+            "clientName": "CHATSWORTH PRODUCT, INC."
+        },
+        {
+            "projectName": "Special Mission Processor FPGA",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "Kroger Edge Power distribution 340_25",
+            "clientName": "THE KROGER CO"
+        },
+        {
+            "projectName": "I3C_Master",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "WHP-ADI-CoE",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "NRE - ATC Next Gen Engine Board",
+            "clientName": "ECONOLITE CONTROL PRODUCTS INC"
+        },
+        {
+            "projectName": "SmartCam_Tuning",
+            "clientName": "MICRONET LTD"
+        },
+        {
+            "projectName": "Emergency Calling Device",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "24VDC_Controller_Inc",
+            "clientName": "SIEMENS INDUSTRY INC- MC IMA31.-113"
+        },
+        {
+            "projectName": "RCF_Phase2",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "F1D1_16nmASIC",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "NVMe Direct Access",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "Mfg - Q820 Kit & SOM",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "WiFi_Sniffing",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "HON_Camera",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "NRE - Lab calibration_NP",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mfg - HDK865",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mfg - Smart Energy meter",
+            "clientName": "SUSTAINABLE REFERENCE ANAYTICS"
+        },
+        {
+            "projectName": "Taurus",
+            "clientName": "ASTERA LABS, INC."
+        },
+        {
+            "projectName": "mcledd",
+            "clientName": "DOT SEMICONDUCTOR"
+        },
+        {
+            "projectName": "AD_PUL_STAPD",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "Mfg - SWIFD-2",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "OpenWeave Door Lock",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "shasta_a1",
+            "clientName": "CHIRP MICROSYSTEMS, INC."
+        },
+        {
+            "projectName": "MS Azure IP Development",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "NRE - HON_AIO",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "NRE - Kona 3",
+            "clientName": "LOGITECH HONG KONG LIMITED"
+        },
+        {
+            "projectName": "Misc_Purchase_Pune",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Capex_Purchase_Non EOU",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "RA Micro Eval",
+            "clientName": "ROCKWELL AUTOMATION INC."
+        },
+        {
+            "projectName": "NRE - HA_Device",
+            "clientName": "FLEXTRONICS INTERNATIONAL USA"
+        },
+        {
+            "projectName": "NRE - ADI_TOF_LIDAR_2200",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "164_AFS6400_Offshore",
+            "clientName": "ASTRONAUTICS CORPORATION OF AMERICA"
+        },
+        {
+            "projectName": "Wireless Camera_Billing",
+            "clientName": "OPKIX, INC-196"
+        },
+        {
+            "projectName": "ADI_DFT",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "CT24 Relay_CATTRON",
+            "clientName": "CATTRON NORTH AMERICA INC-306"
+        },
+        {
+            "projectName": "DFS - SaaS CloudOps Services",
+            "clientName": "WAYNE FUELING SYSTEMS LLC"
+        },
+        {
+            "projectName": "Mfg - 3D Camera",
+            "clientName": "Mantis Vision Ltd."
+        },
+        {
+            "projectName": "MS_Validation",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "Smartlock Display",
+            "clientName": "DORMAKABA USA INC."
+        },
+        {
+            "projectName": "LynxSecure",
+            "clientName": "LYNX SOFTWARE TECHNOLOGIES"
+        },
+        {
+            "projectName": "PWA_Synchronoss",
+            "clientName": "SYNCHRONOSS TECHNOLOGIES INC"
+        },
+        {
+            "projectName": "Mfg - Alster_Processor Board",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Industry Refresh2.0",
+            "clientName": "CATTRON NORTH AMERICA INC"
+        },
+        {
+            "projectName": "OTDR FPGA",
+            "clientName": "II-VI INC"
+        },
+        {
+            "projectName": "CMXC_SoC_Netlist",
+            "clientName": "NETLIST, INC."
+        },
+        {
+            "projectName": "Stryker India Onsite",
+            "clientName": "STRYKER GLOBAL TECHNOLOGY CENTER"
+        },
+        {
+            "projectName": "Emergency Calling Device-Maintenance",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "JDI DL Model Porting",
+            "clientName": "JDI DISPLAY AMERICA, Inc."
+        },
+        {
+            "projectName": "PTI_Evocharge_Cloud_Mobile_Development",
+            "clientName": "PHILIPS & TEMRO INDUSTRIES INC."
+        },
+        {
+            "projectName": "HON_WINPAK",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "Phoenix_LRC",
+            "clientName": "ADEMCO Inc."
+        },
+        {
+            "projectName": "JiraPlugin_Dev",
+            "clientName": "WHITEHAT SECURITY CORPORATION"
+        },
+        {
+            "projectName": "227_Syneo - India",
+            "clientName": "ROCKWELL COLLINS INDIA"
+        },
+        {
+            "projectName": "8_Adaptor boards",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "534_Smart_Hydrant_v2",
+            "clientName": "MUELLER WATER PRODUCTS, INC"
+        },
+        {
+            "projectName": "Web Automation",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Mylan Tobi Mobile Application_EI11",
+            "clientName": "MYLAN PHARMACEUTICALS PRIVATE LIMIT"
+        },
+        {
+            "projectName": "Wearable Camera Support",
+            "clientName": "OPKIX, INC"
+        },
+        {
+            "projectName": "ARM Cortex based SOC",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "AMD_HYD_DV",
+            "clientName": "AMD INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "emerald",
+            "clientName": "ON SEMICONDUCTOR COMPONENTS"
+        },
+        {
+            "projectName": "Mfg - SE2E",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "OnLowpower_Ltd",
+            "clientName": "ON SEMICONDUCTOR TECHNOLOGY"
+        },
+        {
+            "projectName": "NRE - HON_Camera",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "TSWXX70_Support",
+            "clientName": "JABIL LUXEMBOURG MANUFACTURING SARL"
+        },
+        {
+            "projectName": "Eragon QCS 610/410",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "NRE - DALI-2",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "Habiband",
+            "clientName": "ARROW FRANCE SAS"
+        },
+        {
+            "projectName": "Mfg - eInfochips IP 865 Qualcomm",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "SmartCodec",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "Nvidia Initiative",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "TSWXX70_Android_10_Porting",
+            "clientName": "CRESTRON ELECTRONICS INC"
+        },
+        {
+            "projectName": "A220 ACT ARDC",
+            "clientName": "PARKER HANNIFIN CORP."
+        },
+        {
+            "projectName": "NRE - MCD",
+            "clientName": "MSA INNOVATION, LLC"
+        },
+        {
+            "projectName": "NRE - Nvidia Initiative_EI16",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Habiband Digital Design & Development",
+            "clientName": "KOS, Inc."
+        },
+        {
+            "projectName": "369_HON_VA_Platform",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "198_Chipset-Selection",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "40_QCS4290/229|QRB4210/2210",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "521-KT-EP-Digital",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "40_Guidelines for Intrinsc Safe Product",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "551_Perth",
+            "clientName": "ATMOSIC TECHNOLOGIES, INC."
+        },
+        {
+            "projectName": "66_PD",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "507_VE CE",
+            "clientName": "ACS HEADQUARTERS - ACS HQ"
+        },
+        {
+            "projectName": "598_FPGA",
+            "clientName": "ACHRONIX SEMICONDUCTOR CORPORATION"
+        },
+        {
+            "projectName": "243_HON ENT CLOUD",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "40_IMX8MPLUS ISP",
+            "clientName": " E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "521_Puck Lock RF Optimizaton",
+            "clientName": "Johnson Controls inc."
+        },
+        {
+            "projectName": "10_Azure Gen AI",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "198_WHP-KASA-CMB",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "712_MWA PCBAs Re-engineering",
+            "clientName": "Beckman Coulter Inc"
+        },
+        {
+            "projectName": "66_ Chengdu",
+            "clientName": " INVENSENSE INC"
+        },
+        {
+            "projectName": "40_InfoHub360",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "145_DTS_IA",
+            "clientName": " BOSE CORPORATION"
+        },
+        {
+            "projectName": "793_CV_RVM",
+            "clientName": "ENDLOS INNOVATIONS PRIVATE LIMITED"
+        },
+        {
+            "projectName": "40_Mixed Reality",
+            "clientName": " E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "145_Automotive Project",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "626_Software_Integration_Testing",
+            "clientName": "RENESAS ELECTRONICS AMERICA INC."
+        },
+        {
+            "projectName": "636_Trane_PowerBI",
+            "clientName": "CLIMATE ETC TECHNOLOGY SERVICES PRIVATE LIMITED"
+        },
+        {
+            "projectName": "121_SNPS_FV",
+            "clientName": "SYNOPSYS, INC."
+        },
+        {
+            "projectName": "368_IR_CleaningRobot_IA",
+            "clientName": "IROBOT CORPORATION"
+        },
+        {
+            "projectName": "655_FPGA 2",
+            "clientName": "MICROCHIP TECHNOLOGY (INDIA) PVT. LTD"
+        },
+        {
+            "projectName": "456_EV IQ",
+            "clientName": "ENPHASE ENERGY, INC."
+        },
+        {
+            "projectName": "40_UCIE VIP Development",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "40_RISC V 1.1(1,2,3)",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "521_Metasys_UI-Digital",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "66_Baku_asic",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "374_707_AMZ_ImagineIA\t",
+            "clientName": "Amazon.com Services LLC"
+        },
+        {
+            "projectName": "657_HAL_Simulator\t",
+            "clientName": "HANWHA TECHWIN CO. LTD."
+        },
+        {
+            "projectName": "79_MS_Validation_Embd\t",
+            "clientName": "Microsoft Corporation\t"
+        },
+        {
+            "projectName": "675_UniSiCGate_Drvr_Card\t",
+            "clientName": "Skyworks Solutions Inc "
+        },
+        {
+            "projectName": "679_BOM_EOL_Cost_Analysis",
+            "clientName": "Wing Aviation LLC\t"
+        },
+        {
+            "projectName": "368_Smart_Home_CyberSecurity",
+            "clientName": "IROBOT CORPORATION"
+        },
+        {
+            "projectName": "66_Baku_2",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "709_ApneaView System Firmware Development",
+            "clientName": "Sonosa Medical Inc\t"
+        },
+        {
+            "projectName": "40_Advance Thermal Solutions",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "710_Blood Pressure Monitor POC",
+            "clientName": "Kaz USA Inc"
+        },
+        {
+            "projectName": "521-OBAC-Digital\t",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "592_Pune_PWR_MNG",
+            "clientName": "Eaton India Innovation Center LLP"
+        },
+        {
+            "projectName": "671_Car_Test_Automation",
+            "clientName": "CARRIER TECHNOLOGIES INDIA LIMITED"
+        },
+        {
+            "projectName": "727_Network Interface Module (NIM) Design    ",
+            "clientName": "Rosemount Inc"
+        },
+        {
+            "projectName": "108_Cloud Monitoring",
+            "clientName": "AVEVA Software, LLC."
+        },
+        {
+            "projectName": "ADUX1060",
+            "clientName": "ANALOG DEVICES INDIA"
+        },
+        {
+            "projectName": "Intel-Cable-Modem",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "101_IFE",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "25_Media Player",
+            "clientName": "CISCO SYSTEMS INC"
+        },
+        {
+            "projectName": "SSD_Validation",
+            "clientName": "SEAGATE TECHNOLOGY H"
+        },
+        {
+            "projectName": "124_ATE_Proj_management",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "SoC Verification",
+            "clientName": "CISCO SYSTEMS INC"
+        },
+        {
+            "projectName": "DFT_Networking_ODC",
+            "clientName": "LSI INDIA RESEARCH & DEVELOPMENT PRIVATE LIMITED"
+        },
+        {
+            "projectName": "Wolverine",
+            "clientName": "JL MARINE SYSTEMS, INC."
+        },
+        {
+            "projectName": "Xian",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Tornado FPGA",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "MouthLab_Advanced",
+            "clientName": "IO LIFESCIENCE LLC"
+        },
+        {
+            "projectName": "CDNS_IPD",
+            "clientName": "CADENCE DESIGN SYSTEMS (INDIA) PVT."
+        },
+        {
+            "projectName": "Mfg_163_SDA845 HDK",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "153_VR Product Support",
+            "clientName": "LUMUS LTD."
+        },
+        {
+            "projectName": "AWTI_Support",
+            "clientName": "DOVER DIGITAL"
+        },
+        {
+            "projectName": "166_Medical Device Automation",
+            "clientName": "ABIOMED, INC."
+        },
+        {
+            "projectName": "58_Home Automation-Emb",
+            "clientName": "Comcast Cable Communications"
+        },
+        {
+            "projectName": "101_IDC_Hyd",
+            "clientName": "ROCKWELL COLLINS INDIA"
+        },
+        {
+            "projectName": "Audio Sustenance - Offshore",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "161_Test & Measurement Scope",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "Chromium_ARM_Porting",
+            "clientName": "QUALCOMM TECHNOLOGIE"
+        },
+        {
+            "projectName": "PD CDNASIC",
+            "clientName": "CADENCE DESIGN SYSTEMS INC"
+        },
+        {
+            "projectName": "HFR FPGA",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "SWIFD",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Liverpool_Support",
+            "clientName": "HONEYWELL VOCOLLECT"
+        },
+        {
+            "projectName": "Arrow eEngineering Support",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "NRE - Neutrino2",
+            "clientName": "TOSHIBA AMERICA ELEC"
+        },
+        {
+            "projectName": "NRE - SOM820A",
+            "clientName": "BYTON NORTH AMERICA CORPORATION"
+        },
+        {
+            "projectName": "Mfg - Comark production",
+            "clientName": "COMARK LLC"
+        },
+        {
+            "projectName": "ATC Next Gen Engine Board",
+            "clientName": "ECONOLITE CONTROL PRODUCTS INC"
+        },
+        {
+            "projectName": "Engineering Support for Eragon 410",
+            "clientName": "EVEY INNOVATIONS INC"
+        },
+        {
+            "projectName": "NRE - EVSE_Gen3_Support",
+            "clientName": "Siemens Industry Inc- MC IMA31."
+        },
+        {
+            "projectName": "ADPRO_XONVR",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "Secure End-to-End Platform (SEED)",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Mfg - Ironman",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Katana",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "SSS_Phase2",
+            "clientName": "SONY SEMICONDUCTOR SOLUTIONS"
+        },
+        {
+            "projectName": "NRE - Kingfisher_Concept",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "NRE - SBC3",
+            "clientName": "EVERYSIGHT LTD"
+        },
+        {
+            "projectName": "HON_AIO",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "AUTOMOTIVE-COE",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "NRE - Eragon610_410 SoM",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "ROOQ - Wearable device",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "Arrow Digital Project",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Mfg - Industrial Refresh Production",
+            "clientName": "CATTRON NORTH AMERICA INC"
+        },
+        {
+            "projectName": "NRE - OpenWeave Door Lock",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "NRE - Rebel",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "AV Automation",
+            "clientName": "CRESTRON SOFTWARE DEVELOPMENT"
+        },
+        {
+            "projectName": "EI_Internal_DDR4_VIP",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Misc_Purchase_EOU",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "ADI_LIDAR_Billing_Europe",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "128_Retail R&D_Billing",
+            "clientName": "THE KROGER CO-128"
+        },
+        {
+            "projectName": "CWV_Feasibility",
+            "clientName": "OMNICELL INC-88"
+        },
+        {
+            "projectName": "Drivesafe 3.0_Onsite",
+            "clientName": "AWTI 3RD EYE CAM-4"
+        },
+        {
+            "projectName": "Neutrino2_Design - ASIC",
+            "clientName": "TOSHIBA AMERICA ELECTRONIC-129"
+        },
+        {
+            "projectName": "Mfg - SWIFD",
+            "clientName": "LEICA GEOSYSTEMS AG-71"
+        },
+        {
+            "projectName": "IOT-Cloud Testing",
+            "clientName": "DOVER DIGITAL"
+        },
+        {
+            "projectName": "Ion Implant Verification",
+            "clientName": "AXCELIS TECHNOLOGIES, INC."
+        },
+        {
+            "projectName": "Smart Energy Meter",
+            "clientName": "SUSTAINABLE REFERENCE ANAYTICS-298"
+        },
+        {
+            "projectName": "Rebel_Onsite",
+            "clientName": "WHIRLPOOL CORP.-279"
+        },
+        {
+            "projectName": "Test & Measurement-OnSite",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "FFC_RFID_Feasibility",
+            "clientName": "OMNICELL INC"
+        },
+        {
+            "projectName": "NREIn-Vehicle Event Logger Manufacturing",
+            "clientName": "AWTI 3rd EYE CAM"
+        },
+        {
+            "projectName": "AUTOSAR-COE",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "NRE-AutomotiveEthernetTriggerdevelopment",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "Mfg - Wolverine",
+            "clientName": "JL MARINE SYSTEMS, INC."
+        },
+        {
+            "projectName": "ADI_Home_Automation",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "Amazon_Device_Automation",
+            "clientName": "AMAZON"
+        },
+        {
+            "projectName": "GroPod",
+            "clientName": "Heliponix, LLC"
+        },
+        {
+            "projectName": "Pentair Digital IoT Platform Development",
+            "clientName": "PENTAIR MANAGEMENT COMPANY"
+        },
+        {
+            "projectName": "HON_MPC_CS_CPP",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "AM57_ImagineQA",
+            "clientName": "CARL ZEISS MEDITEC INC"
+        },
+        {
+            "projectName": "ADCOE_Industry_4.0_10BaseT1L",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "AMD_PES",
+            "clientName": "AMD INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "Bayer Connect Radiant",
+            "clientName": "BAYER AG"
+        },
+        {
+            "projectName": "486_QCS 404-405 IP",
+            "clientName": "EINFOCHIPS PRIVATE LIMITED"
+        },
+        {
+            "projectName": "NewPort_PD",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Wolverine_INC",
+            "clientName": "JL MARINE SYSTEMS, INC."
+        },
+        {
+            "projectName": "BrainNavi_Device",
+            "clientName": "MURATA MANUFACTURING CO., LTD."
+        },
+        {
+            "projectName": "Mfg - Y-Splitter",
+            "clientName": "The Heil Co. d/b/a AWTI 3rd Eye Cam"
+        },
+        {
+            "projectName": "HON-Embedded_Inc",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "DCA_Vantage",
+            "clientName": "SIEMENS HEALTHCARE DIAGNOSTICS INC."
+        },
+        {
+            "projectName": "Eragon QCS8250",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "Gel Manufacturing DB",
+            "clientName": "GELSIGHT, INC."
+        },
+        {
+            "projectName": "Connectivity Testing",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Bose Digital Development",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "AirCeption-Emb-Dev",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "Windows 10 NVME Driver",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "317_NGB_SW_SDK_Phase2",
+            "clientName": "Swarovski Optik KG"
+        },
+        {
+            "projectName": "6_Maxwell",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "551_Paris",
+            "clientName": "ATMOSIC TECHNOLOGIES, INC."
+        },
+        {
+            "projectName": "422_RA - India",
+            "clientName": "ROCKWELL AUTOMATION, INC."
+        },
+        {
+            "projectName": "124_Nosara-ISDP",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "8_PowerMeterRedesign",
+            "clientName": " ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "569_eI_rEMG",
+            "clientName": "VYAIRE MEDICAL, INC."
+        },
+        {
+            "projectName": "6_Mobile App",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "198-Automation and DevOps (Digital)",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "333_2022 IA BU Initiatives",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "571_SoC",
+            "clientName": "LIGHTMATTER, INC."
+        },
+        {
+            "projectName": "474_WPF Application Development",
+            "clientName": "STRYKER GLOBAL TECHNOLOGY CENTER PRIVATE LIMITED"
+        },
+        {
+            "projectName": "369_MPA1.4",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "243_Digital_ReactNative",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "593_Luca IoT EmbeddedPlatformDevelopment",
+            "clientName": "SUNBEAM PRODUCTS, INC."
+        },
+        {
+            "projectName": "234_707_AVA_ImagineIA",
+            "clientName": "AVEVA Software, LLC."
+        },
+        {
+            "projectName": "10_ECS_RPA",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "10_NET_DEV",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "11_Smart Video Bar Phase1",
+            "clientName": " ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "190_USG_IA",
+            "clientName": "ECHONOUS, INC"
+        },
+        {
+            "projectName": "732_24Storage:Property Management",
+            "clientName": "Koruru Limited"
+        },
+        {
+            "projectName": "40_MSFT_PD_EVAL",
+            "clientName": "Einfochips INC"
+        },
+        {
+            "projectName": "738_FOX_FUSA",
+            "clientName": "Foxconn Slovakia, spol. s r.o."
+        },
+        {
+            "projectName": "54_Sense8",
+            "clientName": "GOOGLE INC"
+        },
+        {
+            "projectName": "776_Meridian Sensor Programming Fixture Design &DV",
+            "clientName": "TELEDYNE DECTON INC"
+        },
+        {
+            "projectName": "656_HON_Ethernet_SW",
+            "clientName": " ACS HEADQUARTERS"
+        },
+        {
+            "projectName": "780_WebApp_Modernisation",
+            "clientName": "EquipLink LLC"
+        },
+        {
+            "projectName": "457_Azure DevOps User access",
+            "clientName": "Hydro Electronic Devices"
+        },
+        {
+            "projectName": "40_Propel 2.0",
+            "clientName": "Einfochips INC"
+        },
+        {
+            "projectName": "626_Software Integration Testing_FP",
+            "clientName": "Renesas Electronics America Inc"
+        },
+        {
+            "projectName": "198_GWS Application  ",
+            "clientName": " WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "54_LPM",
+            "clientName": "GOOGLE INC"
+        },
+        {
+            "projectName": "79_707_Msft_PhabletIA",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "457_CANect-iWave",
+            "clientName": "HYDRO ELECTRONIC DEVICES"
+        },
+        {
+            "projectName": "10_ServiceNow BI",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "648_STK_RFID",
+            "clientName": "STRYKER GLOBAL TECHNOLOGY CENTER PVT. LTD."
+        },
+        {
+            "projectName": "551_AT_PD",
+            "clientName": "ATMOSIC TECHNOLOGIES, INC."
+        },
+        {
+            "projectName": "651_CRLD",
+            "clientName": "CARRIER CORPORATION"
+        },
+        {
+            "projectName": "657_HTW-NVD",
+            "clientName": "HANWHA TECHWIN CO. LTD."
+        },
+        {
+            "projectName": "456_EV_Cloud_Connectivity",
+            "clientName": "ENPHASE ENERGY, INC."
+        },
+        {
+            "projectName": "40_EV IP Implementation_Phase 1",
+            "clientName": "EINFOCHIPS INC"
+        },
+        {
+            "projectName": "121_SNPS_DDR_SUBSYS",
+            "clientName": "SYNOPSYS, INC."
+        },
+        {
+            "projectName": "457_Blizzard Project",
+            "clientName": "HYDRO ELECTRONIC DEVICES"
+        },
+        {
+            "projectName": "521-Metasys-Modernization-Digital",
+            "clientName": " JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "40_eIAPB",
+            "clientName": " E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "661_QC-IoTLab",
+            "clientName": "QUALCOMM INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "243_IA_Engagement",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "40_Java_Test_Automation_IP",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "40_TI Ordering System",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "198_WHP-Tech-Stack-Evolution",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "10_Block Diagram Tool",
+            "clientName": " ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "6_CRANE",
+            "clientName": "Analog Devices Inc"
+        },
+        {
+            "projectName": "75_PD_BRCM_CSG",
+            "clientName": "LSI INDIA RESEARCH & DEVELOPMENT PRIVATE LIMITED"
+        },
+        {
+            "projectName": "661_QLCM_HYD_DFT",
+            "clientName": "Qualcomm India Private Limited"
+        },
+        {
+            "projectName": "145_Audio Devices Testing",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "Bose Corp",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "25_CorporateYouTube",
+            "clientName": "CISCO SYSTEMS INC"
+        },
+        {
+            "projectName": "128_EDGE R&D",
+            "clientName": "THE KROGER CO"
+        },
+        {
+            "projectName": "128_Retail Video Management System",
+            "clientName": "THE KROGER CO"
+        },
+        {
+            "projectName": "Contech - IT Development and Sustenance",
+            "clientName": "CONTECH CONSTRUCTION PRODUCTS INC"
+        },
+        {
+            "projectName": "VOIP_SAM",
+            "clientName": "SAMSUNG ELECTRONICS"
+        },
+        {
+            "projectName": "58_Home Security-Development",
+            "clientName": "Comcast Cable Communications"
+        },
+        {
+            "projectName": "Project C",
+            "clientName": "TOSHIBA ELECTRONIC DEVICE&STORAGE C"
+        },
+        {
+            "projectName": "Eagle",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Alster",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "DLI-DH3",
+            "clientName": "CIVIQ SMART SCAPES"
+        },
+        {
+            "projectName": "Project-D",
+            "clientName": "Toshiba Electronic Device&Storage C"
+        },
+        {
+            "projectName": "6_SWORD_FISH_HDMI",
+            "clientName": "ANALOG DEVICES INDIA"
+        },
+        {
+            "projectName": "147_SoC_Verif",
+            "clientName": "CADENCE DESIGN SYSTEMS, INC."
+        },
+        {
+            "projectName": "BRDCM_DCD",
+            "clientName": "BROADCOM CORPORATION"
+        },
+        {
+            "projectName": "USG Firmware",
+            "clientName": "ECHONOUS, INC"
+        },
+        {
+            "projectName": "Wireless Camera",
+            "clientName": "OPKIX, INC"
+        },
+        {
+            "projectName": "Design Migration",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "iMX8_HMI_Platform project",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "Networked Digitizer",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "Serial TDME",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "PDU_Firmware_Dev",
+            "clientName": "CHATSWORTH PRODUCT, INC."
+        },
+        {
+            "projectName": "Xian_Design",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Xian-DFT",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "SmartTouchPlatform",
+            "clientName": "THE KROGER CO"
+        },
+        {
+            "projectName": "Communicator-3",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "HA_Device",
+            "clientName": "FLEXTRONICS INTERNATIONAL USA"
+        },
+        {
+            "projectName": "NRE - Growhouse",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "NRE - EVSE_Gen3",
+            "clientName": "SIEMENS INDUSTRY INC"
+        },
+        {
+            "projectName": "EdgeOS",
+            "clientName": "GE GLOBAL RESEARCH"
+        },
+        {
+            "projectName": "xiana1_PD",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "SWIFD_FPGA",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "T2 DFT",
+            "clientName": "MARVELL INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "Gateway Software Application",
+            "clientName": "ARROW ASIA PAC LIMITED"
+        },
+        {
+            "projectName": "NRE - Display Firmware",
+            "clientName": "DORMAKABA USA INC."
+        },
+        {
+            "projectName": "Transfer Price Blr",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "EVSE_Gen3_Support",
+            "clientName": "Siemens Industry Inc- MC IMA31."
+        },
+        {
+            "projectName": "QC-LWL",
+            "clientName": "QUALCOMM TECHNOLOGIES INC"
+        },
+        {
+            "projectName": "Yokohama-c1",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Waterfall",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "Shasta",
+            "clientName": "CHIRP MICROSYSTEMS, INC."
+        },
+        {
+            "projectName": "Kingfisher_Concept",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "snps_cxl_lpif",
+            "clientName": "SYNOPSYS, INC."
+        },
+        {
+            "projectName": "AirCeption",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "Touch Screen Automation",
+            "clientName": "CRESTRON SOFTWARE DEVELOPMENT"
+        },
+        {
+            "projectName": "Light Sensor-RE",
+            "clientName": "DAKTRONICS INC."
+        },
+        {
+            "projectName": "Mfg - Industry Refresh2.0",
+            "clientName": "CATTRON NORTH AMERICA INC"
+        },
+        {
+            "projectName": "NRE - Tech-Center-Benton",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "NRE - Qualcomm IP",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "Infineon-COE",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "OnLowpower",
+            "clientName": "ON SEMICONDUCTOR COMPONENTS"
+        },
+        {
+            "projectName": "FRLBXX Digital Design & Development",
+            "clientName": "FREAL FOODS, LLC"
+        },
+        {
+            "projectName": "NRE - FFC_Vision",
+            "clientName": "OMNICELL INC"
+        },
+        {
+            "projectName": "Mfg - SOM820A",
+            "clientName": "BYTON NORTH AMERICA CORPORATION"
+        },
+        {
+            "projectName": "Growhouse_China",
+            "clientName": "ARROW ELECTRONICS CHINA LTD-262"
+        },
+        {
+            "projectName": "Asterlabs",
+            "clientName": "ASTERA LABS, INC. ASTERA LABS-293"
+        },
+        {
+            "projectName": "SystemC models",
+            "clientName": "ARTERIS, INC.-308"
+        },
+        {
+            "projectName": "NRE - SafetyVision RR7200FW",
+            "clientName": "SAFETY VISION LP"
+        },
+        {
+            "projectName": "Tech-Centre-Benton",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "309_IFE",
+            "clientName": "BURRANA INC-309"
+        },
+        {
+            "projectName": "Automotive Ethernet Trigger development",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "129_Neutrino Validation_Ltd",
+            "clientName": "TOSHIBA AMERICA ELECTRONIC"
+        },
+        {
+            "projectName": "NRE - Remote Low-cost Display",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "Universal Video Board (UVB)",
+            "clientName": "BURRANA INC"
+        },
+        {
+            "projectName": "NETGEAR - Digital Services",
+            "clientName": "NETGEAR, INC."
+        },
+        {
+            "projectName": "Coronado",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "Coronado_QA",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "C2_Firmwre",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "Viatris PodManager Tobi App Support",
+            "clientName": "MYLAN PHARMACEUTICALS PRIVATE LIMITED"
+        },
+        {
+            "projectName": "Lido_ASIC",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Lido_Verif",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "PEL_IOT_QA",
+            "clientName": "Arm Cloud Technology, Inc"
+        },
+        {
+            "projectName": "Farenhyte",
+            "clientName": "Honeywell Fire Systems"
+        },
+        {
+            "projectName": "TDMP",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "424_ON Embedded Design and Development",
+            "clientName": "ON SEMICONDUCTOR COMPONENTS"
+        },
+        {
+            "projectName": "457_CL713_BT",
+            "clientName": "HYDRO ELECTRONIC DEVICES"
+        },
+        {
+            "projectName": "Mfg - TECV4 Accessories",
+            "clientName": "AWTI 3rd EYE CAM"
+        },
+        {
+            "projectName": "NRE - BrainNavi_Device",
+            "clientName": "MURATA MANUFACTURING CO., LTD."
+        },
+        {
+            "projectName": "NRE - Infineon-COE",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "AMD_PD",
+            "clientName": "AMD INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "Ironman_support",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "ICU Angel",
+            "clientName": "BAYER AG"
+        },
+        {
+            "projectName": "DALI-2",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "NRE - ISP Tunning",
+            "clientName": "AMAZON"
+        },
+        {
+            "projectName": "NRE - Habiband",
+            "clientName": "ARROW FRANCE SAS"
+        },
+        {
+            "projectName": "Apparatus Outfitting Guide Application",
+            "clientName": "WHELEN ENGINEERING COMPANY INC."
+        },
+        {
+            "projectName": "VSM-Watch Support",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "OnSemi_WiFi",
+            "clientName": "ON SEMICONDUCTOR TECHNOLOGY"
+        },
+        {
+            "projectName": "NRE - MCD_EI16",
+            "clientName": "MSA INNOVATION, LLC"
+        },
+        {
+            "projectName": "NRE - 163_QCSupport_EI16",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "SSS_Phase3",
+            "clientName": "SONY SEMICONDUCTOR SOLUTIONS"
+        },
+        {
+            "projectName": "ROOQ-Wearable_device-Support",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "Habiband Design & Development",
+            "clientName": "KOS, Inc."
+        },
+        {
+            "projectName": "243_HON_SMB_GW",
+            "clientName": "Honeywell Technology solutions Lab Pvt. Ltd."
+        },
+        {
+            "projectName": "369_HON_V6_Vindicator",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "243_HON_PROWATCH",
+            "clientName": " HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "534_Water Distribution Digital",
+            "clientName": "MUELLER WATER PRODUCTS, INC."
+        },
+        {
+            "projectName": "554_Skylab Tester",
+            "clientName": "NUBIS COMMUNICATIONS, INC."
+        },
+        {
+            "projectName": "442_NG HIM Strategy project",
+            "clientName": "ROCKWELL AUTOMATION, INC."
+        },
+        {
+            "projectName": "561_UI_Development",
+            "clientName": "Hexagon Capability Center India Pvt. Ltd."
+        },
+        {
+            "projectName": "451_DDRSoC",
+            "clientName": "MANPOWERGROUP SERVICES INDIA"
+        },
+        {
+            "projectName": "198-HMI-Offshore-Digital",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "333_Interface measurements",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "484_Phonix-T6-CPR",
+            "clientName": "ADEMCO Inc."
+        },
+        {
+            "projectName": "482_DFT",
+            "clientName": "ALIF SEMICONDUCTOR SINGAPORE PTE. LTD."
+        },
+        {
+            "projectName": "529_AMD_HAMPI",
+            "clientName": "AMD INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "428_AMD_FPGA_ACPIP",
+            "clientName": "AMD INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "120_BLR_TESTCHIP_PD",
+            "clientName": "SYNOPSYS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "40_ARINC Protocol Bridge",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "586_DVM_GST_Plugin",
+            "clientName": "HONEYWELL AUTOMATION INDIA LIMITED"
+        },
+        {
+            "projectName": "593_Luca IoT DigitalPlatformDevelopment",
+            "clientName": "SUNBEAM PRODUCTS, INC."
+        },
+        {
+            "projectName": "10_Incubator_IA",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "243_HON EMBD",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "10_Arr-Invoice-Migration-RPA",
+            "clientName": "Arrow Electronics Inc"
+        },
+        {
+            "projectName": "736_EV_OpenADR",
+            "clientName": "Wallbox Chargers SLU"
+        },
+        {
+            "projectName": "745_ADnL",
+            "clientName": "Wacom Co Ltd"
+        },
+        {
+            "projectName": "8_Rail_BusCoupler",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "270_TSWXX70 Android 12 Migration",
+            "clientName": "Crestron Electronics INC"
+        },
+        {
+            "projectName": "145_GDS_IA",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "79_msft_design",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "8_Sensors_ReDesign_4",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "775_Alice_Sensor_Device",
+            "clientName": "Sibel Health Inc"
+        },
+        {
+            "projectName": "656_Firmware Development for Fier Panel",
+            "clientName": " HONEYWELL INTERNATIONAL INC"
+        },
+        {
+            "projectName": "54_GGL-DFT",
+            "clientName": " GOOGLE INC"
+        },
+        {
+            "projectName": "10_GPU Acceleration",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "782_QC_XR2_G2",
+            "clientName": "QUALCOMM INDIA PRIVATE LTD"
+        },
+        {
+            "projectName": "474_Spoke gateway",
+            "clientName": "STRYKER GLOBAL TECHNOLOGY CENTER PVT. LTD."
+        },
+        {
+            "projectName": "526_USB-Keyboard",
+            "clientName": "SENSORMATIC ELECTRONICS, LLC"
+        },
+        {
+            "projectName": "40_Robotics PoC",
+            "clientName": "EINFOCHIPS INC"
+        },
+        {
+            "projectName": "451_QC_HYD_SD",
+            "clientName": "MANPOWERGROUP SERVICES INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "653_RA Staffing Project",
+            "clientName": "ROCKWELL AUTOMATION INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "40_AMB_Rampup",
+            "clientName": "EINFOCHIPS INC"
+        },
+        {
+            "projectName": "25_Layout Design",
+            "clientName": "CISCO SYSTEMS INC"
+        },
+        {
+            "projectName": "445_clinical analyzer",
+            "clientName": "SIEMENS HEALTHCARE DIAGNOSTICS INC."
+        },
+        {
+            "projectName": "577_MRVL_PD",
+            "clientName": "Marvell India Private Limited"
+        },
+        {
+            "projectName": "655_MIC_SOC",
+            "clientName": "MICROCHIP TECHNOLOGY INDIA PVT LTD"
+        },
+        {
+            "projectName": "8_carrier-board-fpga",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "521_SC-Connect\t",
+            "clientName": "Johnson Control Inc"
+        },
+        {
+            "projectName": "6_VYU_ADI\t",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "521_M9420_PWARe-Design",
+            "clientName": "Johnson Control Inc"
+        },
+        {
+            "projectName": "521_ToolsDevelopment_Digital\t",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "391_MAL_DCDC",
+            "clientName": " ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "641_BLOOD ANALYZER IA",
+            "clientName": " INSTRUMENTATION LABORATORY COMPANY"
+        },
+        {
+            "projectName": "484_TCC Product Release",
+            "clientName": "ADEMCO Inc."
+        },
+        {
+            "projectName": "704_NM_ILX_DFT",
+            "clientName": "Xsight Labs"
+        },
+        {
+            "projectName": "368_iRobot-CloudOps",
+            "clientName": "iRobot Corporation"
+        },
+        {
+            "projectName": "706_80A_EV_Charger_1P",
+            "clientName": "Loop Global Inc."
+        },
+        {
+            "projectName": "650 Energy Management System",
+            "clientName": "American Battery Solutions Inc."
+        },
+        {
+            "projectName": "368_VC_Product_Refresh",
+            "clientName": "iRobot Corporation"
+        },
+        {
+            "projectName": "728_Zynq PL/PS FPGA Development",
+            "clientName": "Sensoride Corporation"
+        },
+        {
+            "projectName": "71_Argos Distance Measurement",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "5_SIP_verifiation",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "Drivesafe 3.0",
+            "clientName": "AWTI 3rd EYE CAM"
+        },
+        {
+            "projectName": "SteelCase RW",
+            "clientName": "STEELCASE INC"
+        },
+        {
+            "projectName": "TI_EPOS",
+            "clientName": "TEXAS INSTRUMENTS IN"
+        },
+        {
+            "projectName": "121_PCI_Express",
+            "clientName": "SYNOPSYS, INC."
+        },
+        {
+            "projectName": "Khaleesi",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "Arlo Home Automation ODC",
+            "clientName": "ARLO TECHNOLOGIES INC."
+        },
+        {
+            "projectName": "Rebel",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "NextGen_5G",
+            "clientName": "NETGEAR CANADA LIMITED-226"
+        },
+        {
+            "projectName": "HBMC_V2",
+            "clientName": "GUC"
+        },
+        {
+            "projectName": "MS_Azure",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Asterion",
+            "clientName": "WIPRO LIMITED-296"
+        },
+        {
+            "projectName": "GAPPS",
+            "clientName": "GOOGLE INC"
+        },
+        {
+            "projectName": "SAP-eSparsh",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "WHP-HMI-Offshore",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "UV0093A_DFT",
+            "clientName": "GUC"
+        },
+        {
+            "projectName": "In-Vehicle Event Logger Manufacturing",
+            "clientName": "ALLIANCE WIRELESS TECHNOLOGIES INC"
+        },
+        {
+            "projectName": "EVSE_Gen3",
+            "clientName": "SIEMENS INDUSTRY INC"
+        },
+        {
+            "projectName": "25_CloudCIC",
+            "clientName": "STA Group LLC"
+        },
+        {
+            "projectName": "HBM_IP verification",
+            "clientName": "SYNOPSYS, INC."
+        },
+        {
+            "projectName": "LockBox",
+            "clientName": "DANBY PRODUCTS LTD"
+        },
+        {
+            "projectName": "Medical_Tablet_GMS",
+            "clientName": "Arthrex, Inc."
+        },
+        {
+            "projectName": "ADI_LIDAR",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "Mfg - Rebel",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "NRE - Communicator-3",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "LED Driver board",
+            "clientName": "RIMOKON, INC."
+        },
+        {
+            "projectName": "NRE - Medical Tablet",
+            "clientName": "HAMAMATSU PHOTONICS K.K."
+        },
+        {
+            "projectName": "Oyster ACQ Board",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "K2L Redesign",
+            "clientName": "TEXAS INSTRUMENTS INCORPORATED"
+        },
+        {
+            "projectName": "PCIe CXL VIP",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Layout Design_2019",
+            "clientName": "ACACIA COMMUNICATIONS INC"
+        },
+        {
+            "projectName": "NetworkingAsic",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "IP_SensorFusionHA",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Cleaning_Robot",
+            "clientName": "IROBOT CORPORATION"
+        },
+        {
+            "projectName": "NRE - Industry Refresh2.0",
+            "clientName": "CATTRON NORTH AMERICA INC"
+        },
+        {
+            "projectName": "Mfg - 3rd Eye",
+            "clientName": "AWTI 3rd EYE CAM"
+        },
+        {
+            "projectName": "Mfg - Y-Splitter Prod Test Setup",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "VCS_Testing",
+            "clientName": "ATARI VCS LLC"
+        },
+        {
+            "projectName": "SnapbricksIOTTestAutomationEnhancements",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "HON_Camera_FW",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "NRE - Lab calibration_KB",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "ASIC Flow 1.0",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Eagle_b1",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Liverpool_Support_Inc",
+            "clientName": "HONEYWELL VOCOLLECT"
+        },
+        {
+            "projectName": "NRE - Kingfisher",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "NRE - Light Sensor-RE",
+            "clientName": "DAKTRONICS INC."
+        },
+        {
+            "projectName": "HSF Audio System",
+            "clientName": "A.E. PETSCHE CO., INC."
+        },
+        {
+            "projectName": "Mfg - KingFisher",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "GLSS_NW_Card",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "NRE - Angus",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "EFR32_IoT_Gateway",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "40gmac-dip",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "Secure End-to-End Platform_Europe",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "NRE - DUOVER-80 : ANN-80 REPLACEMENT",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "WHP-Skytower-Offshore",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "FFC_Vision",
+            "clientName": "OMNICELL INC"
+        },
+        {
+            "projectName": "NRE - 4G Sustanance",
+            "clientName": "IDEMIA IDENTITY AND SECURITY"
+        },
+        {
+            "projectName": "Analog Tech - SW",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "FPGA",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mfg - 163_ERAGON625",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mfg - 163_ERAGON660",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "ADI_TOF_LIDAR_Billing_China",
+            "clientName": "ARROW ELECTRONICS CHINA LTD"
+        },
+        {
+            "projectName": "ADI_LIDAR_Billing_China",
+            "clientName": "ARROW ELECTRONICS CHINA LTD"
+        },
+        {
+            "projectName": "Rimo Host IF Verificaiton_Billing",
+            "clientName": "ACACIA COMMUNICATIONS INC-181"
+        },
+        {
+            "projectName": "UV0107A_Onsite",
+            "clientName": "GUC-150"
+        },
+        {
+            "projectName": "PTC_OBU_App",
+            "clientName": "SIEMENS MOBILITY, INC.-299"
+        },
+        {
+            "projectName": "SS/E19/032_ltd",
+            "clientName": "Siemens Industry Inc- MC IMA31."
+        },
+        {
+            "projectName": "NRE - LoRa_Node Stack",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "Automotive Ethernet POC",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "NB_IOT",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "VOIP-SAM",
+            "clientName": "SAMSUNG SDS"
+        },
+        {
+            "projectName": "JNPR_BX",
+            "clientName": "JUNIPER NETWORKS INC"
+        },
+        {
+            "projectName": "101_GS_FDSA",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "HON_X8HIGH",
+            "clientName": "Honeywell International Inc"
+        },
+        {
+            "projectName": "Arrow_ESC_Support",
+            "clientName": "ARROW ELECTRONICS INC "
+        },
+        {
+            "projectName": "Pentair IoT Platform Development",
+            "clientName": "PENTAIR MANAGEMENT COMPANY"
+        },
+        {
+            "projectName": "RCF Reference Design",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "GLSS_EN_Notifier",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "Pel_IoT_Dev",
+            "clientName": "Arm Cloud Technology, Inc"
+        },
+        {
+            "projectName": "Digital UOC Development",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "4G/5G Lab Setup Initiative",
+            "clientName": "eInfochips Pvt. Ltd."
+        },
+        {
+            "projectName": "10_ADI BMS Master",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "8_10V_Photocell",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "435_Connect Radiant - Mechanical Enclosure",
+            "clientName": "BAYER AG"
+        },
+        {
+            "projectName": "25_XE_Linux_SDK",
+            "clientName": "CISCO SYSTEMS INC"
+        },
+        {
+            "projectName": "435_eIC/ICU Angel Data Science",
+            "clientName": "BAYER AG"
+        },
+        {
+            "projectName": "NRE - Cattron",
+            "clientName": "CATTRON NORTH AMERICA INC"
+        },
+        {
+            "projectName": "140_XI USA_LTD",
+            "clientName": "XILINX INDIA TECHNOLOGY SERVICES PV"
+        },
+        {
+            "projectName": "112_Smart City Verification_LTD",
+            "clientName": "Verizon Smart Communities LLC"
+        },
+        {
+            "projectName": "NRE - QEG",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "Qualcomm IoT - CWF",
+            "clientName": "MANPOWERGROUP SERVICES INDIA"
+        },
+        {
+            "projectName": "SLSupport",
+            "clientName": "SOLABORATE, INC."
+        },
+        {
+            "projectName": "NRE - EV Coolant Heater",
+            "clientName": "PHILIPS & TEMRO INDUSTRIES INC."
+        },
+        {
+            "projectName": "NRE - Habiband",
+            "clientName": "ARROW FRANCE SAS"
+        },
+        {
+            "projectName": "NRE - 162_Ecommerce Testing",
+            "clientName": "SHAKLEE INC"
+        },
+        {
+            "projectName": "NRE - Theatro C3 Tools",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "SmartCodec_LTD",
+            "clientName": "CISCO SYSTEMS (INDIA) PRIVATE LIMIT"
+        },
+        {
+            "projectName": "GOCAM_Architecture",
+            "clientName": "HCO OUTDOOR PRODUCTS"
+        },
+        {
+            "projectName": "Primo Refill Station",
+            "clientName": "Primo Water Corporation"
+        },
+        {
+            "projectName": "HED_Uboot",
+            "clientName": "HYDRO ELECTRONIC DEVICES"
+        },
+        {
+            "projectName": "456_Alexa Voice Integration",
+            "clientName": "Enphase Energy, Inc."
+        },
+        {
+            "projectName": "198_Enovia Design Migration",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "65_LNL3",
+            "clientName": "INTEL TECHNOLOGY INDIA PVT LTD"
+        },
+        {
+            "projectName": "155_HD7_PG",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "124_Matrix",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "575_QCS404_SOM",
+            "clientName": "IMPINJ INC."
+        },
+        {
+            "projectName": "457_CL71X software update",
+            "clientName": "HYDRO ELECTRONIC DEVICES"
+        },
+        {
+            "projectName": "331_DCM+",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "417_QCS8250 T&M",
+            "clientName": "SOLABORATE, INC."
+        },
+        {
+            "projectName": "430_MDPWEB2",
+            "clientName": "MORTENSON DENTAL PARTNERS"
+        },
+        {
+            "projectName": "10_GC_RPA",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "10_Incubator",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "331_TEMALINE",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "521_Connect Gateway App Porting",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "145_BOSE_Mircea",
+            "clientName": "Bose Corporation"
+        },
+        {
+            "projectName": "684_QC-Auterion-5165",
+            "clientName": "Auterion AG"
+        },
+        {
+            "projectName": "79_MSFT-CL-DFT",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "391_MAL P18_DCDC",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "79_MS_Verification_GLS",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "521_Chiller_IO_Redesign",
+            "clientName": "Johnson Controls Inc"
+        },
+        {
+            "projectName": "795_Scandium",
+            "clientName": "Sevensense Robotics AG"
+        },
+        {
+            "projectName": "578_Android ML App",
+            "clientName": "CHERISH HEALTH, INC."
+        },
+        {
+            "projectName": "161_Solenoid Driver Module",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "54-TPMS-TW",
+            "clientName": "GOOGLE INC"
+        },
+        {
+            "projectName": "6_ReactJS_APP",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "631_COPD App",
+            "clientName": "MEDA PHARMA S.P.A."
+        },
+        {
+            "projectName": "646_Java Application Development",
+            "clientName": "WABTEC INDIA INDUSTRIAL PRIVATE LIMITED"
+        },
+        {
+            "projectName": "650_Battery Management System",
+            "clientName": "AMERICAN BATTERY SOLUTIONS, INC."
+        },
+        {
+            "projectName": "10_SQABA",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "368_Smart_Home_Innovation_Digital",
+            "clientName": "IROBOT CORPORATION"
+        },
+        {
+            "projectName": "672_HD_RIO\t",
+            "clientName": "Harley-Davison, Inc"
+        },
+        {
+            "projectName": "445_Clinical_AnalyzerABPhase\t",
+            "clientName": "SIEMENS HEALTHCARE DIAGNOSTICS INC"
+        },
+        {
+            "projectName": "526_KT4_Sustenance",
+            "clientName": "SENSORMATIC ELECTRONICS LLC"
+        },
+        {
+            "projectName": "368_Client Innovation Data",
+            "clientName": "IROBOT CORPORATION"
+        },
+        {
+            "projectName": "40_EdgeEvolve",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "79_MS-DFT",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "657_707_Phoenix_ImagineQA",
+            "clientName": "HANWHA TECHWIN CO. LTD."
+        },
+        {
+            "projectName": "521-Metasys-Modernization-Linux Porting-Digital",
+            "clientName": " JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "717_Wisenet Viewer",
+            "clientName": "Hanwha Vision Co Ltd"
+        },
+        {
+            "projectName": "71_Oscar",
+            "clientName": "Leica Geosystems AG"
+        },
+        {
+            "projectName": "40_11_AI_Robotic_Arm_IP",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "652_pro_BSP",
+            "clientName": " SiFive Inc."
+        },
+        {
+            "projectName": "40_IP - Mobile Application Security – SEED",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "163_QCSupport",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "VOIP_EMR",
+            "clientName": "SMART EMBEDDED COMPUTING INC"
+        },
+        {
+            "projectName": "VOIP_NOK",
+            "clientName": "NOKIA OF AMERICA CORPRATION"
+        },
+        {
+            "projectName": "QEG",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "AM57_Imagine",
+            "clientName": "CARL ZEISS MEDITEC INC"
+        },
+        {
+            "projectName": "NVMe Controller",
+            "clientName": "KIOXIA AMERICA,INC"
+        },
+        {
+            "projectName": "120_Formal Verification Tool Validation",
+            "clientName": "SYNOPSYS (INDIA) PVT"
+        },
+        {
+            "projectName": "24VDC_Controller",
+            "clientName": "Siemens Industry Inc- MC IMA31."
+        },
+        {
+            "projectName": "163_ERAGON660",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "25_Gateway Provisioning",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "Qualcomm",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Automotive",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Home Automation Testing",
+            "clientName": "ARLO TECHNOLOGIES INC."
+        },
+        {
+            "projectName": "Neutrino2",
+            "clientName": "TOSHIBA AMERICA ELECTRONIC"
+        },
+        {
+            "projectName": "6_ T32_BLR",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "48_FTC SoC",
+            "clientName": "FARADAY TECHNOLOGY CORP"
+        },
+        {
+            "projectName": "JNPR_7nm_Flows",
+            "clientName": "JUNIPER NETWORKS INC"
+        },
+        {
+            "projectName": "Oyster ACQ Board",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "Growhouse",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "Gunderson Rock",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "PD BRDCM-AVG 7nm",
+            "clientName": "WIPRO LIMITED"
+        },
+        {
+            "projectName": "Neutrino2_Design",
+            "clientName": "TOSHIBA AMERICA ELEC"
+        },
+        {
+            "projectName": "Serial TDME_Verif",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "Intersection_Support",
+            "clientName": "INTERSECTION PARENT, INC."
+        },
+        {
+            "projectName": "Eagle_PD",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "SSS_Phase1_1",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "NRE - ADI_TOF_LIDAR",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "CMA_TC",
+            "clientName": "TELECHIPS INC."
+        },
+        {
+            "projectName": "NRE - CT24 Relay",
+            "clientName": "LAIRD CONTROLS NORTH AMERICA INC"
+        },
+        {
+            "projectName": "Echonous Digital Platform Build",
+            "clientName": "ECHONOUS, INC"
+        },
+        {
+            "projectName": "Mfg - XDS560V2",
+            "clientName": "TEXAS INSTRUMENTS INCORPORATED"
+        },
+        {
+            "projectName": "Transfer Price Ahm",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "Newton",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "NRE - Emergency Calling Device",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "EPOS",
+            "clientName": "A LITTLE WORLD PRIVATE LIMITED"
+        },
+        {
+            "projectName": "Theatro ? DevOps Automation",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "Quadros-PRU-HSRP",
+            "clientName": "ABB GLOBAL INDUSTRIES AND SERVICES"
+        },
+        {
+            "projectName": "Mfg - TECV4 (3rd Eye CAM 10K - 3rd PO)",
+            "clientName": "The Heil Co. d/b/a AWTI 3rd Eye Cam"
+        },
+        {
+            "projectName": "Saphir",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "NRE - AWTI TEC4 Prod 10Ku",
+            "clientName": "AWTI 3rd EYE CAM"
+        },
+        {
+            "projectName": "NRE - EFR32_IOT_Gateway",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "DUOVER-80 : ANN-80 Replacement",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "NRE - RA Micro Eval",
+            "clientName": "ROCKWELL AUTOMATION INC."
+        },
+        {
+            "projectName": "ADI_Pulsatrix",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "IoT Security",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "FRLBXX Embedded Design & Development",
+            "clientName": "FREAL FOODS, LLC"
+        },
+        {
+            "projectName": "AUDIO-EMBASSY",
+            "clientName": "DTS INC"
+        },
+        {
+            "projectName": "MVC Driver",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "166_Medical Device Automation_Offshore",
+            "clientName": "ABIOMED, INC."
+        },
+        {
+            "projectName": "Mfg - SOM820A",
+            "clientName": "BYTON NORTH AMERICA CORPORATION"
+        },
+        {
+            "projectName": "Nextest_Billing",
+            "clientName": "NEXTEST SYSTEMS CORPORATION-155"
+        },
+        {
+            "projectName": "153_VR Product Support_Offshore",
+            "clientName": "LUMUS LTD-153"
+        },
+        {
+            "projectName": "CB",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "108_Cloud Monitoring_Onsite",
+            "clientName": "AVEVA Software, LLC."
+        },
+        {
+            "projectName": "Affinipay Development",
+            "clientName": "AFFINIPAY, LLC"
+        },
+        {
+            "projectName": "NRE - USG Firmware",
+            "clientName": "ECHONOUS, INC"
+        },
+        {
+            "projectName": "NVMe Controller_Toshiba Memory",
+            "clientName": "TOSHIBA MEMORY AMERICA, INC"
+        },
+        {
+            "projectName": "Next Gen Binocular",
+            "clientName": "SWAROVSKI OPTIK KG"
+        },
+        {
+            "projectName": "ADI_PD",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "Design Migration_Onsite",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "NRE - Open system SDN",
+            "clientName": "II-VI INC"
+        },
+        {
+            "projectName": "Opus",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "Nvidia EML",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "LoRa_Node Stack",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "NRE - FFC_RFID_Feasibility",
+            "clientName": "OMNICELL INC"
+        },
+        {
+            "projectName": "Remote Low-cost Display",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "HON-Embedded",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "AL_PD",
+            "clientName": "ASTERA LABS, INC."
+        },
+        {
+            "projectName": "TSWXX70 LCD Development",
+            "clientName": "Jabil Luxembourg Manufacturing Sarl"
+        },
+        {
+            "projectName": "DR_Scope_EVT",
+            "clientName": "Swarovski Optik KG"
+        },
+        {
+            "projectName": "TSWXX70_Sustenance",
+            "clientName": "Crestron Electronics, Inc"
+        },
+        {
+            "projectName": "GOCAM_Dev",
+            "clientName": "FRONTIER PURSUITS TECHNOLOGY, LLC"
+        },
+        {
+            "projectName": "ADRV9001_FPGA",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Smart Light Device Cloud integration",
+            "clientName": "Corsair Memory, Inc."
+        },
+        {
+            "projectName": "Honeywell Digital Engagement",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "245_C3_Production_Support",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "JLG-FORT-Development",
+            "clientName": "FORT ROBOTICS, INC."
+        },
+        {
+            "projectName": "NRE - EragonQCS865",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "AMD_DFT",
+            "clientName": "AMD INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "ADBL_Consultancy",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "Thermal_Rebellion_ONVIF",
+            "clientName": "REBELLION PHOTONICS, INC."
+        },
+        {
+            "projectName": "NRE - Hello3",
+            "clientName": "SOLABORATE, INC."
+        },
+        {
+            "projectName": "MCD (MSA Camera Device)",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "NRE - NOV_POC",
+            "clientName": "NATIONAL OILWELL VARCO, INC."
+        },
+        {
+            "projectName": "NRE - 145_Audio Devices Testing",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "Mfg - Swarovski-NGB",
+            "clientName": "SWAROVSKI OPTIK KG"
+        },
+        {
+            "projectName": "Mfg - Eragon865 Sensor evaluation Kit",
+            "clientName": "SONY SEMICONDUCTOR SOLUTIONS"
+        },
+        {
+            "projectName": "NRE - Hello3_EI16",
+            "clientName": "SOLABORATE, INC."
+        },
+        {
+            "projectName": "CDN_DDR_Verif",
+            "clientName": "Cadence Design Systems (India) Pvt."
+        },
+        {
+            "projectName": "Rivera Kernel Update",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "395_SSS_Phase4",
+            "clientName": "SONY SEMICONDUCTOR SOLUTIONS"
+        },
+        {
+            "projectName": "457_S32K3_Support",
+            "clientName": "HYDRO ELECTRONIC DEVICES"
+        },
+        {
+            "projectName": "205_BlueJeans",
+            "clientName": "Verizon Smart Communities LLC"
+        },
+        {
+            "projectName": "120_SNPS_BLR_IP_PD",
+            "clientName": "SYNOPSYS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "8_Drager Safety X-dock Concept Study",
+            "clientName": " ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "563_CyberLandr",
+            "clientName": "STREAM IT, INC."
+        },
+        {
+            "projectName": "566_Carrier_Mezzanine_Design",
+            "clientName": "APCON, INC."
+        },
+        {
+            "projectName": "572_depthCam-sdk",
+            "clientName": "MV-APT, LTD."
+        },
+        {
+            "projectName": "40_ Guidelines for IS Product",
+            "clientName": "Einfochips, Inc."
+        },
+        {
+            "projectName": "484_707_Res43_ImagineQA",
+            "clientName": "Ademco, Inc."
+        },
+        {
+            "projectName": "40_NewTechInitiatives Discovery Phase",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "434_707_PTI_ImagineIA",
+            "clientName": "PHILIPS & TEMRO INDUSTRIES INC."
+        },
+        {
+            "projectName": "11_Video Distribution Server - QCS8250",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "592_707_ETN_Staffing",
+            "clientName": "EATON INDIA INNOVATION CENTER LLP"
+        },
+        {
+            "projectName": "10_SCV_DEV",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "671_CRLD_Digital",
+            "clientName": "CARRIER TECHNOLOGIES INDIA LIMITED"
+        },
+        {
+            "projectName": "705 Infotainment ECU staffing - embedded",
+            "clientName": "Panasonic Automotive Systems Company of America"
+        },
+        {
+            "projectName": "743_LW_EV_Charger_Support",
+            "clientName": "Lynkwell LLC"
+        },
+        {
+            "projectName": "751_PNA Telematics ECU staffing",
+            "clientName": "PANASONIC CORPORATION OF NORTH AMERICA"
+        },
+        {
+            "projectName": "145_Lamarr Tiramisu",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "79_MS_Verification_KGate",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "734_SE EV Charger EVT_DVT",
+            "clientName": "Schneider Electric Inc"
+        },
+        {
+            "projectName": "733_Sustenance Work",
+            "clientName": "S&C ELECTRIC COMPANY "
+        },
+        {
+            "projectName": "761-DevOps",
+            "clientName": "FLUENCE ENERGY LLC"
+        },
+        {
+            "projectName": "145_Lamarr Tiramisu_IA",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "145_Lamarr Tiramisu T&M",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "113_IntelArc_ImagineCS",
+            "clientName": "Siemens Industry Inc"
+        },
+        {
+            "projectName": "467_GoCam_Alpha_2",
+            "clientName": "Frontier Pursuits Technology, LLC"
+        },
+        {
+            "projectName": "145_DTS AWS",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "451_QCT_PDA_HYD",
+            "clientName": "MANPOWERGROUP SERVICES INDIA"
+        },
+        {
+            "projectName": "434_Evocharge_Phase4",
+            "clientName": "PHILIPS & TEMRO INDUSTRIES INC."
+        },
+        {
+            "projectName": "40_DFT-IP-DAeRT",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "293_Taurus3_dv",
+            "clientName": "ASTERA LABS, INC."
+        },
+        {
+            "projectName": "10_EdgeLabs",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "566_IntellaStore4",
+            "clientName": "APCON Inc"
+        },
+        {
+            "projectName": "366_Armenia_PD",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "366_CSC23_DFT",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "705 Infotainment ECU staffing",
+            "clientName": "Panasonic Automotive Systems Company of America"
+        },
+        {
+            "projectName": "40_OCPP 1.6J Protocol Library Development",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "712_HFI SCA FPGA Support",
+            "clientName": "Beckman Coulter Inc"
+        },
+        {
+            "projectName": "40_Healthcare accelerator using Azure",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "145_BPC AWS Issues Remediation",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "717_HAL Simulator",
+            "clientName": "Hanwha Vision Co Ltd"
+        },
+        {
+            "projectName": "374_AMZN_PD",
+            "clientName": " AMAZON.COM SERVICES LLC"
+        },
+        {
+            "projectName": "733– Design updates",
+            "clientName": "S&C Electric"
+        },
+        {
+            "projectName": "Mfg_163_QCSupport",
+            "clientName": "EINFOCHIPS INC"
+        },
+        {
+            "projectName": "Open system SDN",
+            "clientName": "II-VI INC"
+        },
+        {
+            "projectName": "25_Dragon Lady",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "PMS",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "101_CR_Onsite",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "QMS",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "54_Soc_Verification",
+            "clientName": "GOOGLE INC"
+        },
+        {
+            "projectName": "Tech-Centre",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "Wilsonart Mobile Support",
+            "clientName": "WILSONART AMERICAS"
+        },
+        {
+            "projectName": "LED-HMI20-Offshore",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "LED-HMI20-Onsite",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "analog_modelling",
+            "clientName": "INTEGRATED DEVICE TECHNOLOGY, INC"
+        },
+        {
+            "projectName": "Pain_Sensor_Patch",
+            "clientName": "IO LIFESCIENCE LLC"
+        },
+        {
+            "projectName": "Arrow_TBox",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "DDR_VIP",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "Puma",
+            "clientName": "AKRUTA, INC."
+        },
+        {
+            "projectName": "Medical Tablet",
+            "clientName": "HAMAMATSU PHOTONICS K.K."
+        },
+        {
+            "projectName": "CAD_Configuration",
+            "clientName": "CHATSWORTH PRODUCT, INC."
+        },
+        {
+            "projectName": "Jasmine",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Eagle-DFT",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Evaluation_Support",
+            "clientName": "THE TORO COMPANY"
+        },
+        {
+            "projectName": "CT24 Relay",
+            "clientName": "CATTRON NORTH AMERICA INC"
+        },
+        {
+            "projectName": "Mfg - Alster",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "IXTG400",
+            "clientName": "INFINERA INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "zinnia2-DFT",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Mfg - HDK 855",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mfg - EPAC POWER SUPPLY REV:2.0",
+            "clientName": "SIEMENS MOBILITY, INC."
+        },
+        {
+            "projectName": "IoT_PDK_BSP",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "NRE - Liverpool_Support",
+            "clientName": "HONEYWELL VOCOLLECT"
+        },
+        {
+            "projectName": "Mfg - 3rd Eye Cam ? Kit Parts",
+            "clientName": "AWTI 3rd EYE CAM"
+        },
+        {
+            "projectName": "128_EDGE R&D_LTD",
+            "clientName": "THE KROGER CO"
+        },
+        {
+            "projectName": "NRE - QC605_SDP",
+            "clientName": "FACEBOOK TECHNOLOGIES, LLC"
+        },
+        {
+            "projectName": "NRE - Waterfall",
+            "clientName": "CREATIVE EC"
+        },
+        {
+            "projectName": "Mfg - Lab calibration_EOU",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mfg - C3 communicator",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "NRE - AirCeption",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "eITFA",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Adaptive Bandwidth Management",
+            "clientName": "OPTISPECTRUM LLC"
+        },
+        {
+            "projectName": "NRE - GLSS_NW_Card",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "PAL",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mylan Tobi Mobile Application",
+            "clientName": "MYLAN PHARMACEUTICALS PRIVATE LIMIT"
+        },
+        {
+            "projectName": "Delphi",
+            "clientName": "OSLER DIAGNOSTICS LIMITED"
+        },
+        {
+            "projectName": "HON_Camera_70",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "NRE - ADI_LIDAR",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "Audio-Embassy Testing",
+            "clientName": "DTS INC-199"
+        },
+        {
+            "projectName": "309_MISC_IFE",
+            "clientName": "BURRANA INC-309"
+        },
+        {
+            "projectName": "Mfg - Oriole",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Honeywell Situational Awareness",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "NRE - Train Drive Recorder",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "Mfg - Growhouse",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "ASIC Top",
+            "clientName": "GUC"
+        },
+        {
+            "projectName": "IronMan Concept",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Transfer Price Unit A",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "NRE - Tech-Centre",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "EVOChargeAlpha",
+            "clientName": "PHILIPS & TEMRO INDUSTRIES INC."
+        },
+        {
+            "projectName": "AM57_ARI_Migration",
+            "clientName": "CARL ZEISS MEDITEC INC"
+        },
+        {
+            "projectName": "Cattron_MessengerBLE",
+            "clientName": "Cattron North America Inc"
+        },
+        {
+            "projectName": "Alif_SoC_Verification",
+            "clientName": "ALIF SEMICONDUCTOR SINGAPORE PTE. LTD."
+        },
+        {
+            "projectName": "Neo Platform Development",
+            "clientName": "Kimberly-Clark Global Sales, LLC"
+        },
+        {
+            "projectName": "GLSS NW CARD ALPHA",
+            "clientName": "Honeywell Fire Systems"
+        },
+        {
+            "projectName": "521_NextGen Tyco AI Platform Development",
+            "clientName": "SENSORMATIC ELECTRONICS, LLC"
+        },
+        {
+            "projectName": "243_Digital Engagement - FP",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "531_EV Charger",
+            "clientName": "ARTILUX NMF, UAB"
+        },
+        {
+            "projectName": "Mortenson Dental Partners",
+            "clientName": "MORTENSON DENTAL PARTNERS"
+        },
+        {
+            "projectName": "Shipper Bee",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "Telehealth_device_support",
+            "clientName": "TYTO CARE LTD"
+        },
+        {
+            "projectName": "NRE - Chimev2",
+            "clientName": "ARLO TECHNOLOGIES INC."
+        },
+        {
+            "projectName": "Fremont Gateway Update",
+            "clientName": "STEELCASE INC"
+        },
+        {
+            "projectName": "EFR32_IoT_Gateway_Europe",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "EFR32_IoT_Gateway_Asia Pac",
+            "clientName": "ARROW ASIA PAC LIMITED"
+        },
+        {
+            "projectName": "EV Coolant Heater",
+            "clientName": "PHILIPS & TEMRO INDUSTRIES INC."
+        },
+        {
+            "projectName": "Device Automation",
+            "clientName": "CRESTRON SOFTWARE DEVELOPMENT"
+        },
+        {
+            "projectName": "Sustenance [ NXP Ref_Boards ]",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "Mfg - Eragon QCS610/410",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "CIS-DFT",
+            "clientName": "CISCO SYSTEMS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "TI_EPOS_2",
+            "clientName": "TEXAS INSTRUMENTS INCORPORATED"
+        },
+        {
+            "projectName": "Arrow Digital Report Migration Project",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Mfg - Communicator-3 100K(50K-50K)",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "NOV_POC",
+            "clientName": "NATIONAL OILWELL VARCO, INC."
+        },
+        {
+            "projectName": "IMX8",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "NRE - HSF Audio System_EI16",
+            "clientName": "A.E. PETSCHE CO., INC.(Arrow)"
+        },
+        {
+            "projectName": "BRCM_CSG_PD",
+            "clientName": "AVAGO TECHNOLOGIES WIRELESS"
+        },
+        {
+            "projectName": "DataStorm DAQ-ADI Data Convertor Support",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Enphase Development ",
+            "clientName": "Enphase Energy, Inc."
+        },
+        {
+            "projectName": "Crestone Peak",
+            "clientName": "ARROW ELECTRONICS INC "
+        },
+        {
+            "projectName": "AirCeption Digital Development",
+            "clientName": "ARROW ELECTRONICS (UK) LTD"
+        },
+        {
+            "projectName": "393_SOC_Verification",
+            "clientName": " CORNAMI, INC."
+        },
+        {
+            "projectName": "446_Cloud IoT Platform - Architecture Phase",
+            "clientName": "WATLOW ELECTRIC MANUFACTURING COMPANY"
+        },
+        {
+            "projectName": "198_SPCN",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "124_NDM",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "66_Venice",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "10_ADI_CEEC_Program_Manager",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "573_HFX Architecture Phase",
+            "clientName": "HEADVANTAGE CORPORATION"
+        },
+        {
+            "projectName": "40_MCB in Segmentation and UDO",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "578_Radar",
+            "clientName": "CHERISH HEALTH, INC."
+        },
+        {
+            "projectName": "369_OEM_Product_L2_Support",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "128_Video Management System (KVMS)",
+            "clientName": "THE KROGER CO"
+        },
+        {
+            "projectName": "62_WAA100",
+            "clientName": "INFINERA INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "40_ddr-controller-vip",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "562_IoT forAirPurifiers-Custom Hardware",
+            "clientName": "THE PYURE COMPANY"
+        },
+        {
+            "projectName": "40_AndroidAutomotivecapabilitiesbuilding",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "331_EnterpriseCloud_GW_Embd",
+            "clientName": "HONEYWELL FIRE SYSTEMS"
+        },
+        {
+            "projectName": "10_PHP_DEV",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "533_XConnect_DEV",
+            "clientName": "SENECA DATA DISTRIBUTORS INC"
+        },
+        {
+            "projectName": "599_VS_ICB3",
+            "clientName": "VISEON, INC."
+        },
+        {
+            "projectName": "10_iMX93-EAP",
+            "clientName": "EINFOCHIPS INC"
+        },
+        {
+            "projectName": "456_HA_Integration_BOSCH",
+            "clientName": "ENPHASE ENERGY, INC."
+        },
+        {
+            "projectName": "120_BLR_SRG_PD",
+            "clientName": "SYNOPSYS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "10_FAE Kit",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "461_HVBMS",
+            "clientName": "NXP USA, Inc."
+        },
+        {
+            "projectName": "366_NX_Linux_SDK",
+            "clientName": "CISCO SYSTEMS (INDIA) PRIVATE LIMITED"
+        },
+        {
+            "projectName": "10_Motion Control Board",
+            "clientName": "Arrow Electronics Inc."
+        },
+        {
+            "projectName": "6_ADI_Mead",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "274_Digital Engagement DFS",
+            "clientName": " WAYNE FUELING SYSTEMS LLC"
+        },
+        {
+            "projectName": "445_ClinicalAnalyzer_Win10",
+            "clientName": "SIEMENS HEALTHCARE DIAGNOSTICS INC"
+        },
+        {
+            "projectName": "8_Low Cost Camera Platform",
+            "clientName": " ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "717_SightMind",
+            "clientName": "Hanwha Vision Co Ltd"
+        },
+        {
+            "projectName": "395_SSS_Phase5",
+            "clientName": "SONY SEMICONDUCTOR SOLUTIONS"
+        },
+        {
+            "projectName": "588_Edge_SDK",
+            "clientName": "DUCLO, INC."
+        },
+        {
+            "projectName": "641_Blood Analyzer Firmware and SQA",
+            "clientName": "INSTRUMENTATION LABORATORY COMPANY"
+        },
+        {
+            "projectName": "521-OBBAS-Digital",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "439_PB_Agile_PLM_Support",
+            "clientName": "PACIFIC BIOSCIENCES OF CALIFORNIA, INC."
+        },
+        {
+            "projectName": "40_Saaf Water",
+            "clientName": "Einfochips, Inc."
+        },
+        {
+            "projectName": "652_Horsecreek Board",
+            "clientName": "SiFive, Inc."
+        },
+        {
+            "projectName": "10_MSBI",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "594_Rainsoft Remind App",
+            "clientName": "PENTAIR MANAGEMENT COMPANY"
+        },
+        {
+            "projectName": "606_ELSA_MVP_Embedded",
+            "clientName": "SOFTACUITY INC,"
+        },
+        {
+            "projectName": "6_WISP_Windows_App",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "673_EVC_KT",
+            "clientName": "Sensata Technologies"
+        },
+        {
+            "projectName": "563_CyberLandr_alpha",
+            "clientName": "Stream It Inc"
+        },
+        {
+            "projectName": "40_Matter_1.0_POC",
+            "clientName": " eInfochips Inc"
+        },
+        {
+            "projectName": "61_Infnr_PD",
+            "clientName": "INFINERA CORPORATION"
+        },
+        {
+            "projectName": " 420_700 Series Refresh",
+            "clientName": "Whelen Engineering Company Inc."
+        },
+        {
+            "projectName": "708_HealthyCareApp",
+            "clientName": "Helen of Troy Inc."
+        },
+        {
+            "projectName": "521 PES Client Innovation-Linux-Porting",
+            "clientName": "JOHNSON CONTROLS INC."
+        },
+        {
+            "projectName": "40_DC_Fast_Charger",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "79_MS_Verification",
+            "clientName": "Microsoft Corporation"
+        },
+        {
+            "projectName": "63_Verification_Onsite",
+            "clientName": "INNOVIUM INC"
+        },
+        {
+            "projectName": "4G Sustanance",
+            "clientName": "IDEMIA IDENTITY AND SECURITY"
+        },
+        {
+            "projectName": "Koncert IT",
+            "clientName": "KPS C/O KONCERTIT"
+        },
+        {
+            "projectName": "128_Retail R&D",
+            "clientName": "THE KROGER CO"
+        },
+        {
+            "projectName": "162_Ecommerce Testing",
+            "clientName": "SHAKLEE INC"
+        },
+        {
+            "projectName": "135_Web Security Automation",
+            "clientName": "WHITEHAT SECURITY CORPORATION"
+        },
+        {
+            "projectName": "Internal Applications",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "140_XI USA",
+            "clientName": "XILINX INC"
+        },
+        {
+            "projectName": "UV0107A",
+            "clientName": "GUC"
+        },
+        {
+            "projectName": "DDR_Cdn",
+            "clientName": "CADENCE DESIGN SYSTEMS, INC."
+        },
+        {
+            "projectName": "61_Gen5_onsite",
+            "clientName": "INFINERA CORPORATION"
+        },
+        {
+            "projectName": "Poquito",
+            "clientName": "SWIVEL INC"
+        },
+        {
+            "projectName": "EPIC",
+            "clientName": "TERADYNE INC"
+        },
+        {
+            "projectName": "TSWXX70 Design and Development",
+            "clientName": "JABIL LUXEMBOURG MANUFACTURING SARL-211"
+        },
+        {
+            "projectName": "Maui Framework",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "FleetManagement-Oniste",
+            "clientName": "TRAPEZE SOFTWARE GROUP, INC"
+        },
+        {
+            "projectName": "VeyronB0_STA",
+            "clientName": "AVAGO TECHNOLOGIES WIRELESS"
+        },
+        {
+            "projectName": "ADI_LIDAR_FPGA",
+            "clientName": "ARROW ELECTRONICS"
+        },
+        {
+            "projectName": "YT-DFT",
+            "clientName": "JUNIPER NETWORKS INC"
+        },
+        {
+            "projectName": "WHP-SI-Onsite",
+            "clientName": "WHIRLPOOL CORP."
+        },
+        {
+            "projectName": "AM57_Imagine_QA",
+            "clientName": "CARL ZEISS MEDITEC I"
+        },
+        {
+            "projectName": "NRE - Oyster-FPGA",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "Automotive DSP",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "NRE - LED Driver board",
+            "clientName": "RIMOKON, INC."
+        },
+        {
+            "projectName": "NRE - 163_ERAGON625",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "T2 PD",
+            "clientName": "MARVELL INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "DLI_Gen2",
+            "clientName": "COMARK LLC"
+        },
+        {
+            "projectName": "NRE - Gateway Systems",
+            "clientName": "UPLEVEL SYSTEMS, INC."
+        },
+        {
+            "projectName": "101_IDC_Blr",
+            "clientName": "ROCKWELL COLLINS INDIA"
+        },
+        {
+            "projectName": "NRE - Universal Video Board (UVB)",
+            "clientName": "BURRANA INC"
+        },
+        {
+            "projectName": "JNPR_ FPGA",
+            "clientName": "JUNIPER NETWORKS INC"
+        },
+        {
+            "projectName": "IP_SmartHeadPhone",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "NRE - Acacia layout_2019",
+            "clientName": "ACACIA COMMUNICATIONS INC"
+        },
+        {
+            "projectName": "Home Assistant ? QC Support",
+            "clientName": "EVEY INNOVATIONS INC"
+        },
+        {
+            "projectName": "NRE - WHP-ADI-CoE",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "Mfg - Oriole - Camera Board",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Mfg - Intel Pioneer Pass",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "Ironman",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "101_FDSA",
+            "clientName": "ROCKWELL COLLINS INDIA"
+        },
+        {
+            "projectName": "Newport",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "COR_SoC Verificaiton",
+            "clientName": "CORNAMI, INC."
+        },
+        {
+            "projectName": "SBC3",
+            "clientName": "EVERYSIGHT LTD"
+        },
+        {
+            "projectName": "NRE - Lab calibration_Pune",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "101_CR_Offshore",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "Kingfisher",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "NRE - SSS_Phase2",
+            "clientName": "SONY SEMICONDUCTOR SOLUTIONS"
+        },
+        {
+            "projectName": "QC-LWL_INC",
+            "clientName": "QUALCOMM TECHNOLOGIES INC"
+        },
+        {
+            "projectName": "Angus",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "Mfg - PCI adaptor card",
+            "clientName": "IVY TECHNOLOGY"
+        },
+        {
+            "projectName": "Chimev2",
+            "clientName": "ARLO TECHNOLOGIES INC."
+        },
+        {
+            "projectName": "NRE - HSF Audio System",
+            "clientName": "A.E. PETSCHE CO., INC."
+        },
+        {
+            "projectName": "Mfg - Communicator C3 3rd PO",
+            "clientName": "THEATRO LABS. INC"
+        },
+        {
+            "projectName": "Whelen Hardware Support",
+            "clientName": "WHELEN ENGINEERING COMPANY INC."
+        },
+        {
+            "projectName": "Misc_Purchase_Non EOU",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Mfg - SH-ECD",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "Pinnacle",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "ADI_TOF_LIDAR_Billing_Europe",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "Mfg - Communicator-3",
+            "clientName": "THEATRO LABS. INC-245"
+        },
+        {
+            "projectName": "112_Smart City Verification_Onsite",
+            "clientName": "VERIZON SMART COMMUNITIES LLC-205"
+        },
+        {
+            "projectName": "ArrowSphere Cloud Services",
+            "clientName": "ARROW ECS SAS"
+        },
+        {
+            "projectName": "Train Drive Recorder",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "Embd_Dover",
+            "clientName": "DOVER DIGITAL"
+        },
+        {
+            "projectName": "snps_dft_pcie",
+            "clientName": "SYNOPSYS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "SSS_Phase1_2",
+            "clientName": "ARROW UEC JAPAN KK"
+        },
+        {
+            "projectName": "md016_PD",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "AL_DFT",
+            "clientName": "ASTERA LABS, INC."
+        },
+        {
+            "projectName": "PIPE PSG BLR",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "HON_Camera_2021",
+            "clientName": "Honeywell Technology solutions Lab Pvt. Ltd."
+        },
+        {
+            "projectName": "TSWXX70_Android_10_Porting_Phase_2",
+            "clientName": "Crestron Electronics, Inc"
+        },
+        {
+            "projectName": "164_CASP",
+            "clientName": "ASTRONAUTICS CORPORATION OF AMERICA"
+        },
+        {
+            "projectName": "DB_Modernization",
+            "clientName": "UTEC, Inc"
+        },
+        {
+            "projectName": "ALIF_PD",
+            "clientName": "ALIF SEMICONDUCTOR SINGAPORE PTE. LTD."
+        },
+        {
+            "projectName": "Daktronics Support",
+            "clientName": "Daktronics Inc."
+        },
+        {
+            "projectName": "HON_GWPSTACK",
+            "clientName": "Honeywell Technology solutions Lab Pvt. Ltd."
+        },
+        {
+            "projectName": "Wearable_Device_FRL",
+            "clientName": "FACEBOOK TECHNOLOGIES, LLC"
+        },
+        {
+            "projectName": "MSFT Innovation Lab",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "Sensor Data Acquisition card",
+            "clientName": "VOC Health Inc"
+        },
+        {
+            "projectName": "GDX_Redesign",
+            "clientName": "Vernier Software & Technology, LLC"
+        },
+        {
+            "projectName": "BrainNavi_Device Phase4",
+            "clientName": "MURATA MANUFACTURING CO., LTD."
+        },
+        {
+            "projectName": "8_Balluff_Adaptor Board",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "439_ICS-Port",
+            "clientName": " PACIFIC BIOSCIENCES OF CALIFORNIA, INC"
+        },
+        {
+            "projectName": "SiLab Support",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "NGB_SW_SDK",
+            "clientName": "SWAROVSKI OPTIK KG"
+        },
+        {
+            "projectName": "Mfg - SBC",
+            "clientName": "IVY TECHNOLOGY"
+        },
+        {
+            "projectName": "ISP Tunning",
+            "clientName": "AMAZON"
+        },
+        {
+            "projectName": "WIP",
+            "clientName": "PACIFIC BIOSCIENCES OF CALIFORNIA,"
+        },
+        {
+            "projectName": "NRE - Expansion Module Redesign",
+            "clientName": "WATLOW ELECTRIC MANUFACTURING COMPA"
+        },
+        {
+            "projectName": "NRE - Nvidia Initiative",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "NGB_Support",
+            "clientName": "SWAROVSKI OPTIK KG"
+        },
+        {
+            "projectName": "DR_Scope_POC",
+            "clientName": "SWAROVSKI OPTIK KG"
+        },
+        {
+            "projectName": "NRE - WIP_EI16",
+            "clientName": "PACIFIC BIOSCIENCES OF CALIFORNIA,"
+        },
+        {
+            "projectName": "Thor96-Fedora-IOT distro support",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "EVOCharge",
+            "clientName": "PHILIPS & TEMRO INDUSTRIES INC."
+        },
+        {
+            "projectName": "Test Automation",
+            "clientName": "Enphase Energy, Inc."
+        },
+        {
+            "projectName": "Wolverine_Phase2",
+            "clientName": "JL MARINE SYSTEMS, INC."
+        },
+        {
+            "projectName": "NXP_VIP_SG32",
+            "clientName": "NXP USA INC"
+        },
+        {
+            "projectName": "501_The Wave",
+            "clientName": "VOC HEALTH, INC."
+        },
+        {
+            "projectName": "8_OnSemiCamModule_96B",
+            "clientName": " ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "198_Control Boards",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "570_SANMINA_EMB",
+            "clientName": "SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "10_Pen7_ImagineQA",
+            "clientName": "PENTAIR MANAGEMENT COMPANY"
+        },
+        {
+            "projectName": "6_Gecko",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "451_QCT_PDA_STA",
+            "clientName": "MANPOWERGROUP SERVICES INDIA"
+        },
+        {
+            "projectName": "6_IP_design",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "243_Digital_SaMBa",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "10_Blockchain_DEV",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "10_PowerBI",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "243_HON EMAAS",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "734_SE EV Charger",
+            "clientName": "Schneider Electric Inc"
+        },
+        {
+            "projectName": "145_Spitfire II",
+            "clientName": "Bose Corporation"
+        },
+        {
+            "projectName": "145_GDS AWS Issues Remediation ",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "766_BMS NG",
+            "clientName": "Viridi Parente Inc"
+        },
+        {
+            "projectName": "771_ESS-RESID",
+            "clientName": "Analog Devices International"
+        },
+        {
+            "projectName": "773_Smart_Power_Socket",
+            "clientName": "Power Hero Corporation"
+        },
+        {
+            "projectName": "648_Smart Plate POC",
+            "clientName": "Stryker Global Technology Center Pvt. Ltd."
+        },
+        {
+            "projectName": "40_Automotive_ISO21434_Compliance_IP",
+            "clientName": " E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "198_Service Module 2.0",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "62_Infnr_blr_PD",
+            "clientName": "INFINERA INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "788_RTL Design for Image Statistics Module",
+            "clientName": "Santa Barbara Imaging Systems Inc"
+        },
+        {
+            "projectName": "782_Qcom_PD",
+            "clientName": "Qualcomm India Pvt. Ltd"
+        },
+        {
+            "projectName": "577_MRVL_DFT",
+            "clientName": "MARVELL INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "40_EV Charging_Discovery",
+            "clientName": " E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "484_Comfort EngineeringStaffAugmentation",
+            "clientName": "ADEMCO Inc."
+        },
+        {
+            "projectName": "456_Enlighten Integration",
+            "clientName": "ENPHASE ENERGY, INC."
+        },
+        {
+            "projectName": "21_Cirrus Re-design",
+            "clientName": "CARL ZEISS MEDITEC INC"
+        },
+        {
+            "projectName": "573_HFX PPOV Pre-Alpha PoC",
+            "clientName": "HEADVANTAGE CORPORATION"
+        },
+        {
+            "projectName": "606_ELSA_MVP_Digital",
+            "clientName": "SOFTACUITY INC,"
+        },
+        {
+            "projectName": "40_NXP8MP_ISPT",
+            "clientName": "EINFOCHIPS INC"
+        },
+        {
+            "projectName": "40_Ethernet VIP",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": "664_FE20",
+            "clientName": "HELIOX TECHNOLOGY INC"
+        },
+        {
+            "projectName": "374_AMZ_LAB126",
+            "clientName": "AMAZON"
+        },
+        {
+            "projectName": "683_Smart_Badge",
+            "clientName": "Kontakt Micro"
+        },
+        {
+            "projectName": "686_707_HG_ImagineQA",
+            "clientName": "HID Global Corporation"
+        },
+        {
+            "projectName": "484_T9-T10 GUI Analysis",
+            "clientName": " ADEMCO Inc."
+        },
+        {
+            "projectName": "40_Intrinsic Safe Industrial Gateway",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "588_SaaS_IA",
+            "clientName": "DuClo Inc"
+        },
+        {
+            "projectName": "40_Multimedia_Testing_IP",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "650_ABS FuSa GAP Analysis",
+            "clientName": "American battery Systems"
+        },
+        {
+            "projectName": "707 FF Infotainment ECU Staffing\t",
+            "clientName": "Faurecia India Pvt Ltd"
+        },
+        {
+            "projectName": "655_Microchip-Consultancy",
+            "clientName": "Microchip Technology India Pvt Ltd"
+        },
+        {
+            "projectName": "719_QCS610_SBC_Camera Development",
+            "clientName": "Otonomy Aviation"
+        },
+        {
+            "projectName": "717_Plugin for Milestone",
+            "clientName": "Hanwha Vision Co Ltd"
+        },
+        {
+            "projectName": "75_BRCM-CSG-DFT",
+            "clientName": "LSI INDIA RESEARCH & DEVELOPMENT PRIVATE LIMITED"
+        },
+        {
+            "projectName": "61_Phantom",
+            "clientName": "INFINERA CORPORATION"
+        },
+        {
+            "projectName": "10_PES Client Innovation Azure Open AI",
+            "clientName": " ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "79_MSFT-DFT",
+            "clientName": " MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "SafetyVision RR7200FW",
+            "clientName": "SAFETY VISION LP"
+        },
+        {
+            "projectName": "74_BT Speaker Testing",
+            "clientName": "LOGITECH INC"
+        },
+        {
+            "projectName": "32_Automotive Bangalore Onsite",
+            "clientName": "CONTINENTAL AUTOMOTI"
+        },
+        {
+            "projectName": "TC4 Gaming terminal",
+            "clientName": "IDEMIA IDENTITY AND SECURITY"
+        },
+        {
+            "projectName": "129_Neutrino Validation",
+            "clientName": "TOSHIBA AMERICA ELECTRONIC"
+        },
+        {
+            "projectName": "VOIP_DIA",
+            "clientName": "SANGOMA TECHNOLOGIES INC."
+        },
+        {
+            "projectName": "112_Smart City Verification",
+            "clientName": "VERIZON SMART COMMUNITIES LLC-205"
+        },
+        {
+            "projectName": "164_AFS6400",
+            "clientName": "ASTRONAUTICS CORPORATION OF AMERICA"
+        },
+        {
+            "projectName": "Oyster-FPGA",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "120_SNPS_IP_HRD_BLR",
+            "clientName": "SYNOPSYS INC"
+        },
+        {
+            "projectName": "WHP-HMI-Onsite",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "Formal Verfi_Silicon",
+            "clientName": "EINFOCHIPS"
+        },
+        {
+            "projectName": "101_Boeing-737",
+            "clientName": "ROCKWELL COLLINS INC"
+        },
+        {
+            "projectName": "25_2_Gateway_Provisioning",
+            "clientName": "INFOSENSEGLOBAL INC"
+        },
+        {
+            "projectName": "Daytona",
+            "clientName": "ANALOG DEVICES INDIA PVT LTD"
+        },
+        {
+            "projectName": "Asterion_STA",
+            "clientName": "AVAGO TECHNOLOGIES WIRELESS"
+        },
+        {
+            "projectName": "Montebello",
+            "clientName": "ARISTA NETWORKS, INC."
+        },
+        {
+            "projectName": "3D Camera",
+            "clientName": "MANTIS VISION LTD."
+        },
+        {
+            "projectName": "SNPS_IP_HARDENING_Hyderabad_DFT",
+            "clientName": "SYNOPSYS (INDIA) PVT LTD"
+        },
+        {
+            "projectName": "PAL",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "IDOX_Automation",
+            "clientName": "HONEYWELLTECHNOLOGYSOLUTIONSLAB PVT"
+        },
+        {
+            "projectName": "md015_PD",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Gateway Systems",
+            "clientName": "UPLEVEL SYSTEMS, INC."
+        },
+        {
+            "projectName": "NRE - Puma",
+            "clientName": "AKRUTA, INC."
+        },
+        {
+            "projectName": "analog_modelling_Design",
+            "clientName": "INTEGRATED DEVICE TECHNOLOGY, INC"
+        },
+        {
+            "projectName": "IoT - Cloud Portal Development Project",
+            "clientName": "DOVER DIGITAL"
+        },
+        {
+            "projectName": "NRE - DLI_Gen2",
+            "clientName": "COMARK LLC"
+        },
+        {
+            "projectName": "Display Firmware",
+            "clientName": "DORMAKABA USA INC."
+        },
+        {
+            "projectName": "RPA_Competency_Build",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "SWIFD 0-Series_PCBA 200",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Predix Edge Support",
+            "clientName": "GE GLOBAL RESEARCH"
+        },
+        {
+            "projectName": "I3C_Slave",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "xian_PD",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Transfer Price Ltd",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "WMS Mobility Platform",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "QC605_SDP",
+            "clientName": "FACEBOOK TECHNOLOGIES, LLC"
+        },
+        {
+            "projectName": "emmc_ip_verif",
+            "clientName": "LSI INDIA RESEARCH & DEVELOPMENT PV"
+        },
+        {
+            "projectName": "Mfg -3rd Eye Cam ? Prod Test Accessories",
+            "clientName": "AWTI 3rd EYE CAM"
+        },
+        {
+            "projectName": "PCIe RNR IP design",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "MerVE3",
+            "clientName": "ROCKWELL COLLINS INDIA"
+        },
+        {
+            "projectName": "NRE - Saphir",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "Mfg - Q820-SOM-RevB",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "BRDC PLP_DFT",
+            "clientName": "LSI INDIA RESEARCH & DEVELOPMENT PV"
+        },
+        {
+            "projectName": "NRE - AC_Reader",
+            "clientName": "HONEYWELL INTERNATIONAL SARL"
+        },
+        {
+            "projectName": "VOIP_NOK _Inc",
+            "clientName": "NOKIA OF AMERICA CORPRATION"
+        },
+        {
+            "projectName": "NRE - Silicon Expert_BOM Tool",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Audio product sustenance",
+            "clientName": "KLIPSCH GROUP, INC."
+        },
+        {
+            "projectName": "WAA400",
+            "clientName": "INFINERA INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "Poultry Farm IoT & Machine Learning Imp.",
+            "clientName": "INTELIA TECHNOLOGIES INC."
+        },
+        {
+            "projectName": "NRE - Adaptive bandwidth management",
+            "clientName": "OPTISPECTRUM LLC"
+        },
+        {
+            "projectName": "Hello3",
+            "clientName": "SOLABORATE, INC."
+        },
+        {
+            "projectName": "MD021",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "Kona 3",
+            "clientName": "LOGITECH HONG KONG LIMITED"
+        },
+        {
+            "projectName": "merlin",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "NRE-FRLBXX Embedded Design & Development",
+            "clientName": "FREAL FOODS, LLC"
+        },
+        {
+            "projectName": "NextGen_5G_Billing",
+            "clientName": "NETGEAR CANADA LIMITED-226"
+        },
+        {
+            "projectName": "Growhouse_Europe",
+            "clientName": "ARROW CENTRAL EUROPE GMBH-8"
+        },
+        {
+            "projectName": "NRE - 153_VR Product Support",
+            "clientName": "LUMUS LTD-153"
+        },
+        {
+            "projectName": "UV0093A_DFT_Onsite",
+            "clientName": "GUC-150"
+        },
+        {
+            "projectName": "Lighting Control Testing",
+            "clientName": "LUTRON ELECTRONICS CO., INC."
+        },
+        {
+            "projectName": "Payment Solutions Testing",
+            "clientName": "AFFINIPAY, LLC"
+        },
+        {
+            "projectName": "24VDC_Controller- Ltd",
+            "clientName": "Siemens Industry Inc- MC IMA31."
+        },
+        {
+            "projectName": "Parker_QCD",
+            "clientName": "PARKER HANNIFIN CORPORATION"
+        },
+        {
+            "projectName": "Design engineers allocation",
+            "clientName": "eInfochips"
+        },
+        {
+            "projectName": "Transfer Price Unit B",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "NRE - Networked Digitizer",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "PTC_OBU_Phase2",
+            "clientName": "SIEMENS MOBILITY, INC."
+        },
+        {
+            "projectName": "eSight - Glasses",
+            "clientName": "eSight Corporation"
+        },
+        {
+            "projectName": "SNPS_VERA2SV",
+            "clientName": "SYNOPSYS, INC."
+        },
+        {
+            "projectName": "SpaceLabs_Support",
+            "clientName": "Spacelabs Healthcare, LLC"
+        },
+        {
+            "projectName": "System Board",
+            "clientName": "Vantage Robotics"
+        },
+        {
+            "projectName": "Waterfall_Digital",
+            "clientName": "Creative EC Limited"
+        },
+        {
+            "projectName": "Cleaning_Robot_QA",
+            "clientName": "IROBOT CORPORATION"
+        },
+        {
+            "projectName": "JCI Next Gen KT-x Door Controller",
+            "clientName": "SENSORMATIC ELECTRONICS, LLC"
+        },
+        {
+            "projectName": "531_Digital",
+            "clientName": "ARTILUX NMF, UAB"
+        },
+        {
+            "projectName": "BRCM_APD_PD",
+            "clientName": "LSI INDIA RESEARCH & DEVELOPMENT PRIVATE LIMITED"
+        },
+        {
+            "projectName": "onsemi_dft",
+            "clientName": "ON SEMICONDUCTOR COMPONENTS"
+        },
+        {
+            "projectName": "Newport_ASIC",
+            "clientName": "INVENSENSE INC"
+        },
+        {
+            "projectName": "BXD-DFT",
+            "clientName": "INTEL CORPORATION"
+        },
+        {
+            "projectName": "NRE - 101_CIU_FMC_4212",
+            "clientName": "ROCKWELL COLLINS DEUTSCHLAND GMBH"
+        },
+        {
+            "projectName": "NRE - Kingfisher_Ratna SEZ",
+            "clientName": "LEICA GEOSYSTEMS AG"
+        },
+        {
+            "projectName": "ADI_STAFFAUG",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "NRE - Google Coral POC",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "NRE-Contech IT Development & Sustenance",
+            "clientName": "CONTECH CONSTRUCTION PRODUCTS INC"
+        },
+        {
+            "projectName": "ABB_HSR-PRP",
+            "clientName": "ABB GLOBAL INDUSTRIES AND SERVICES"
+        },
+        {
+            "projectName": "Expansion Module Redesign",
+            "clientName": "WATLOW ELECTRIC MANUFACTURING COMPA"
+        },
+        {
+            "projectName": "Asset Tracking System",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "NRE - Audio Sustenance - Offshore",
+            "clientName": "BOSE CORPORATION"
+        },
+        {
+            "projectName": "NextGen_MJ5",
+            "clientName": "SIEMENS ENERGY, INC."
+        },
+        {
+            "projectName": "NRE - 163_QCSupport_Inc",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "JetCarrier96",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "Mfg - 3rd Eye Dover TECV4-4thPO-10K_EI17",
+            "clientName": "The Heil Co. d/b/a AWTI 3rd Eye Cam"
+        },
+        {
+            "projectName": "6_ADUM418X IC Verification",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "562_Digital Engagement\t",
+            "clientName": "THE PYURE COMPANY"
+        },
+        {
+            "projectName": "562_IoT for Air Purifiers",
+            "clientName": "THE PYURE COMPANY"
+        },
+        {
+            "projectName": "198_APL_QA",
+            "clientName": "WHIRLPOOL CORPORATION"
+        },
+        {
+            "projectName": "9_Nvidia RCB",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "6_EagleHP",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "75_APD_EIC_BRCM",
+            "clientName": "LSI INDIA RESEARCH & DEVELOPMENT PVT. LTD"
+        },
+        {
+            "projectName": "40_SV_CapabilityBuilding",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "591_Reference PlatformSecurityController",
+            "clientName": "RECOGNI INC."
+        },
+        {
+            "projectName": "588_SaaS",
+            "clientName": "DUCLO, INC."
+        },
+        {
+            "projectName": "243_Digital_CMT",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "243_Digital_Native",
+            "clientName": "HONEYWELL TECHNOLOGY SOLUTIONS"
+        },
+        {
+            "projectName": "526_Annotation",
+            "clientName": "SENSORMATIC ELECTRONICS, LLC"
+        },
+        {
+            "projectName": "10_TestComponent_RPA",
+            "clientName": "ARROW ELECTRONICS INC"
+        },
+        {
+            "projectName": "606_ELSA",
+            "clientName": "SOFTACUITY INC,"
+        },
+        {
+            "projectName": "529_PD_StaffAug",
+            "clientName": " AMD INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "656_HON IMX8 GLSS ESSER ICONIC",
+            "clientName": "HONEYWELL INTERNATIONAL INC"
+        },
+        {
+            "projectName": "79_MSFT_PD",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "521_NS8000 Redesign",
+            "clientName": "Johnson Controls Inc"
+        },
+        {
+            "projectName": "331_HON_ImagineQA",
+            "clientName": "Honeywell Fire Systems"
+        },
+        {
+            "projectName": "79_MS_Verification_Lapine",
+            "clientName": "MICROSOFT CORPORATION"
+        },
+        {
+            "projectName": "781_AeroGarden_MyLawn_MobileApp",
+            "clientName": "Scotts Company LLC"
+        },
+        {
+            "projectName": "40_IEC_62443_Compliance_IP",
+            "clientName": "E-INFOCHIPS INC"
+        },
+        {
+            "projectName": "161_Morpheus",
+            "clientName": "TELEDYNE LECROY INC"
+        },
+        {
+            "projectName": "484_LTE_CR",
+            "clientName": "ADEMCO Inc."
+        },
+        {
+            "projectName": "6_707_ANA_ImagineIA",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "8_Carrier_Board",
+            "clientName": "ARROW CENTRAL EUROPE GMBH"
+        },
+        {
+            "projectName": "201_DV AMS",
+            "clientName": "Cadence Design Systems (India) Pvt. Ltd."
+        },
+        {
+            "projectName": "6_Balsam",
+            "clientName": "ANALOG DEVICES INDIA PVT. LTD."
+        },
+        {
+            "projectName": "374_AMZN-DFT",
+            "clientName": "AMAZON"
+        },
+        {
+            "projectName": "40_Optix_GUI_Flow",
+            "clientName": "eInfochips-Inc"
+        },
+        {
+            "projectName": " 484_707_Res44_ImagineQA\t",
+            "clientName": " ADEMCO Inc."
+        },
+        {
+            "projectName": "697_Riva SP",
+            "clientName": "Itron Inc"
+        },
+        {
+            "projectName": "681_Embassy Automotive",
+            "clientName": "Xperi Inc"
+        },
+        {
+            "projectName": "657_Phoenix",
+            "clientName": "HANWHA TECHWIN CO. LTD."
+        },
+        {
+            "projectName": "62_Tahoe",
+            "clientName": "INFINERA INDIA PRIVATE LIMITED"
+        },
+        {
+            "projectName": "547_Euphony Gen 2",
+            "clientName": "A.E. PETSCHE UK. LTD"
+        },
+        {
+            "projectName": "40_IP - IoT Security – Firmware Security",
+            "clientName": "eInfochips Inc"
+        },
+        {
+            "projectName": "190_KOSMOS Powerpack",
+            "clientName": "Echonous Inc"
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+
+.p-datatable .p-datatable-thead > tr > th {
+    background: #EFF2F7;
+    padding: 5px 10px 5px 10px;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    border-color: #D7DADE;
+}
+.p-datatable .p-datatable-thead > tr > th + th{
+    border-left: 1px solid #D7DADE; 
+}
+.p-datatable .p-datatable-tbody > tr > td {
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17.5px;
+    border-bottom: 1px solid #EFF2F7;
+    padding: 6px 10px 6px 10px;
+    background: #fff;
+    color: #495057;
+}
+.p-datatable .p-datatable-thead > tr > th .p-column-title{
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 25px;
+    color: #343A40;
+}
+.p-datatable .p-datatable-tbody > tr.p-highlight > td {
+    background: #E7F3FF;
+}
+.p-checkbox .p-checkbox-box {
+    border: 1px solid #74788D;
+    background: #ffffff;
+    width: 13.08px;
+    height: 13.08px;
+    color: #74788D;
+    border-radius: 2px;
+}
+.p-checkbox-box.p-component.p-highlight {
+    border: 1px solid #00AAFF;
+}
+.p-checkbox-box.p-component.p-highlight svg {
+    color: #0af;
+    height: 12px;
+    width: 12px;
+    margin-bottom: 1px;
+}
+.p-column-filter{
+    margin-left: auto;
+    padding-left: 4px;
+}
+.p-column-filter-overlay {
+    background: #ffffff;
+    color: #4b5563;
+    border: 0 none;
+    border-radius: 6px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+    min-width: 12.5rem;
+}
+.p-column-filter-overlay-menu .p-column-filter-operator {
+    padding: 0.75rem 1.25rem;
+    border-bottom: 1px solid #e5e7eb;
+    color: #374151;
+    background: #f9fafb;
+    margin: 0;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+}
+.p-column-filter-overlay-menu .p-column-filter-constraint {
+    padding: 1.25rem;
+    border-bottom: 1px solid #e5e7eb;
+}
+.p-column-filter-overlay-menu .p-column-filter-constraint:last-child {
+    border-bottom: 0 none;
+}
+.p-column-filter-overlay-menu .p-column-filter-constraint .p-column-filter-matchmode-dropdown {
+    margin-bottom: 0.5rem;
+}
+.p-dropdown {
+    background: #ffffff;
+    border: 1px solid #d1d5db;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    border-radius: 6px;
+    outline-color: transparent;
+}
+.p-inputtext {
+    font-family: 'poppins';
+    font-size: 1rem;
+    color: #4b5563;
+    background: #ffffff;
+    padding: 0.5rem 0.5rem;
+    border: 1px solid #d1d5db;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    appearance: none;
+    border-radius: 6px;
+}
+.p-dropdown .p-dropdown-label {
+    background: transparent;
+    border: 0 none;
+}
+.p-dropdown-panel {
+    background: #ffffff;
+    color: #4b5563;
+    border: 0 none;
+    border-radius: 6px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+.p-dropdown .p-dropdown-trigger {
+    background: transparent;
+    color: #6b7280;
+    width: 3rem;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.p-column-filter-overlay-menu .p-column-filter-add-rule {
+    padding: 0.75rem 1.25rem;
+}
+.p-column-filter-buttonbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p-column-filter-overlay-menu .p-column-filter-buttonbar {
+    padding: 1.25rem;
+}
+.p-column-filter-overlay-menu .p-column-filter-buttonbar .p-button{
+    background: #00AAFF;
+    border: 1px solid #00AAFF;
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    height: auto;
+    line-height: 18px;
+    min-width: auto;
+    padding: 6px 10px 6px 10px;
+}
+.p-dropdown-panel .p-dropdown-items {
+    padding: 0.75rem 0;
+}
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item {
+    margin: 0;
+    padding: 0.75rem 1.25rem;
+    border: 0 none;
+    color: #4b5563;
+    background: transparent;
+    transition: box-shadow 0.2s;
+    border-radius: 0;
+}
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item.p-highlight.p-focus {
+    background: rgba(6, 182, 212, 0.24);
+}
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item.p-highlight {
+    color: #0e7490;
+    background: #ecfeff;
+}
+.p-column-filter-add-button, .p-column-filter-remove-button {
+    justify-content: center;
+    width: 100%;
+    padding: 0.75rem;
+}
+.p-button.p-button-text {
+    background-color: transparent;
+    color: #00AAFF;
+    border-color: transparent;
+}
+.p-button.p-button-text:not(:disabled):hover {
+    background: rgb(0, 168, 181, 0.04);
+    color: #00AAFF;
+    border-color: transparent;
+}
+.p-Link{
+    color: #0959F5;
+}
+
+/* Pagination */
+
+.p-paginator {
+    gap: 4px;
+    justify-content: end;
+    margin-top: 22px;
+}
+.p-paginator-pages button{
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #495057;
+    height: 28px;
+    width: 28px;
+    border-radius: 2px;
+}
+.p-paginator-pages button.p-highlight{
+    background: #004E8C;
+    color: #E7F3FF;
+}
+.p-paginator-pages button + button {
+    margin-left: 4px;
+}
+button.p-paginator-element:hover {
+    background: #004E8C;
+    color: #E7F3FF;
+}
+.p-paginator .p-paginator-first, .p-paginator .p-paginator-prev, .p-paginator .p-paginator-last,
+.p-paginator .p-paginator-next{
+    color: #1C1C1C;
+    height: 28px;
+    width: 28px;
+    border-radius: 2px;
+}

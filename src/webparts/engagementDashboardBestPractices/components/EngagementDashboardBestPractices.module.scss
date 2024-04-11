@@ -1,0 +1,30 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.modalPopupHeader{
+  background: #EFF2F7;
+  padding: 10px 20px 10px 20px;
+
+  .modalPopupTitle{
+    font-family: 'Poppins';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 23px;
+    color: #343A40;
+  }
+}
+.formChildGap > :not(:first-child) {
+    margin-top: 13px;
+}
+.modalContent{
+  padding: 11px 20px 20px;
+}
+
+.iconStyle{
+  font-size: 16px;
+  color: #74788D;
+  cursor: pointer;
+}
+.dropdownWidth{
+  width: 212px;
+}

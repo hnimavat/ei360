@@ -1,0 +1,30 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://aixtor.sharepoint.com/_layouts/workbench.aspx",
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://aixtor.sharepoint.com/sites/InfoHub360",
+      "customActions": {
+        "3190ebd3-eba2-472e-adf9-2d861f36b1a2": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "eiMenuNavigation": {
+      "pageUrl": "https://aixtor.sharepoint.com/sites/InfoHub360",
+      "customActions": {
+        "3190ebd3-eba2-472e-adf9-2d861f36b1a2": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.cardWrapper{ 
+  .card{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #fff;
+    border-radius: 2px;
+    border-bottom: 4px solid #00A8B5;
+    box-shadow: 0px 0px 15px 0px #74788D1A;
+    height: 100%;
+
+    &:hover{
+      text-decoration: none;
+    }
+  
+    .leftContent{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .rightContent{
+      display: flex;
+      flex-direction: column;
+      align-items: end;
+      justify-content: space-between;
+      gap: 15px;
+
+      .revenueDuration{
+        font-family: 'Poppins';
+        font-weight: 500;
+        color: #74788D;
+        line-height: 16.5px;
+        padding: 1px 4px 1px 4px;
+        border: 1px solid #74788D;
+        border-radius: 4px;
+        font-size: 11px;
+      }
+    }
+    .cardTitle{
+      font-family: 'Poppins';
+      font-weight: 500;
+      font-style: normal;
+      font-size: 13px;
+      color:#74788D;
+    }
+    .cardCount{
+      font-family: 'Poppins';
+      font-weight: 500;
+      font-style: normal;
+      font-size: 20px;
+      line-height: 30px;
+      color: #495057;
+    }
+  }
+}
+
+/* common css for screen size < 1199 (Table landscape view ) */
+@media only screen and (max-width: 1199px) {
+  .cardWrapper{ 
+      .i-col-2{
+        margin-bottom: 25px;
+        &:last-child{
+          margin-bottom: 0;
+        }
+      }
+      
+  }
+}
