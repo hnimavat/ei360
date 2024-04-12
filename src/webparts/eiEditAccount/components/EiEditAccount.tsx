@@ -573,7 +573,7 @@ export default class EiEditAccount extends React.Component<
       if (updatedivision.ID != 0) {
         toast.success("Division details updated successfully.");
       } else {
-        toast.success("Division details saved successfully.");
+        toast.success("Division details added successfully.");
       }
     } else {
       console.error("Error saving or updating Division details:");
@@ -610,7 +610,7 @@ export default class EiEditAccount extends React.Component<
     const isdeleted = await this.eiAccountService.deleteDivisions(rowid);
     if (isdeleted) {
       await this.getDivisionsByAccName(accountName);
-      toast.success("Division deleted successfully.");
+      toast.success("Division details deleted successfully.");
     } else {
       console.error("Error Deleting Division details");
       toast.error("Something went wrong!");
@@ -669,7 +669,7 @@ export default class EiEditAccount extends React.Component<
       if (updatefinancials.ID != 0) {
         toast.success("Fiancials details updated successfully.");
       } else {
-        toast.success("Fiancials details saved successfully.");
+        toast.success("Fiancials details added successfully.");
       }
     } else {
       console.error("Error saving or updating Financials details:");
@@ -754,7 +754,7 @@ export default class EiEditAccount extends React.Component<
       if (updatecompetitors.ID != 0) {
         toast.success("Competitors details updated successfully.");
       } else {
-        toast.success("Competitors details saved successfully.");
+        toast.success("Competitors details added successfully.");
       }
     } else {
       console.error("Error saving or updating Competitors details:");
@@ -880,7 +880,7 @@ export default class EiEditAccount extends React.Component<
         if (updatecustomerstackholders.ID != 0) {
           toast.success("Customer Stakeholder details updated successfully.");
         } else {
-          toast.success("Customer Stakeholder details saved successfully.");
+          toast.success("Customer Stakeholder details added successfully.");
         }
       } else {
         console.error("Error saving or updating Customer stackholders details:");
@@ -1060,7 +1060,7 @@ export default class EiEditAccount extends React.Component<
           if (this.state.accountDetails.ID != 0) {
             toast.success("Account details updated successfully.");
           } else {
-            toast.success("New account details added successfully.");
+            toast.success("Account details added successfully.");
           }
         }
       })
@@ -1494,7 +1494,7 @@ export default class EiEditAccount extends React.Component<
                   <TextField
                     label="Account Name"
                     styles={textFieldProps}
-                    placeholder="Account name"
+                    placeholder="Enter Account name"
                     value={this.state.accountDetails.AccountName}
                     required
                   />
@@ -1503,7 +1503,7 @@ export default class EiEditAccount extends React.Component<
                   <TextField
                     label="Industry Type"
                     styles={textFieldProps}
-                    placeholder="Industry Type"
+                    placeholder="Enter Industry Type"
                     value={this.state.accountDetails.IndustryType}
                     onChange={(event, value) =>
                       this.handleAccountDetailsTextFieldChange(
@@ -1539,7 +1539,7 @@ export default class EiEditAccount extends React.Component<
                   <TextField
                     label="Parent Company"
                     styles={textFieldProps}
-                    placeholder="Parent Company"
+                    placeholder="Enter Parent Company"
                     value={this.state.accountDetails.ParentCompany}
                     onChange={(event, value) =>
                       this.handleAccountDetailsTextFieldChange(
@@ -1553,7 +1553,7 @@ export default class EiEditAccount extends React.Component<
                   <TextField
                     label="Subsidiary Company"
                     styles={textFieldProps}
-                    placeholder="Subsidiary Company"
+                    placeholder="Enter Subsidiary Company"
                     value={this.state.accountDetails.SubsidiaryCompany}
                     onChange={(event, value) =>
                       this.handleAccountDetailsTextFieldChange(
@@ -1569,7 +1569,7 @@ export default class EiEditAccount extends React.Component<
                     styles={textFieldParagraphProps}
                     multiline
                     rows={6}
-                    placeholder="Description..."
+                    placeholder="Enter Description..."
                     value={this.state.accountDetails.AccountDescription}
                     onChange={(event, value) =>
                       this.handleAccountDetailsTextFieldChange(
@@ -1682,7 +1682,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Revenue ($)"
                                   styles={textFieldProps}
-                                  placeholder="Revenue ($)"
+                                  placeholder="Enter Revenue ($)"
                                   value={
                                     addFinancialsForm.Revenue == 0 || addFinancialsForm.Revenue == null
                                       ? ""
@@ -1717,7 +1717,7 @@ export default class EiEditAccount extends React.Component<
                                   <TextField
                                     label="Q-1 Revenue ($)"
                                     styles={textFieldProps}
-                                    placeholder="Q-1 Revenue ($)"
+                                    placeholder="Enter Q-1 Revenue ($)"
                                     value={
                                       addFinancialsForm.Q1Revenue == 0
                                         ? ""
@@ -1750,7 +1750,7 @@ export default class EiEditAccount extends React.Component<
                                   <TextField
                                     label="Q-2 Revenue ($)"
                                     styles={textFieldProps}
-                                    placeholder="Q-2 Revenue ($)"
+                                    placeholder="Enter Q-2 Revenue ($)"
                                     value={
                                       this.state.updatefinancials.Q2Revenue == 0
                                         ? ""
@@ -1775,7 +1775,7 @@ export default class EiEditAccount extends React.Component<
                                   <TextField
                                     label="Q-3 Revenue ($)"
                                     styles={textFieldProps}
-                                    placeholder="Q-3 Revenue ($)"
+                                    placeholder="Enter Q-3 Revenue ($)"
                                     value={
                                       this.state.updatefinancials.Q3Revenue == 0
                                         ? ""
@@ -1800,7 +1800,7 @@ export default class EiEditAccount extends React.Component<
                                   <TextField
                                     label="Q-4 Revenue ($)"
                                     styles={textFieldProps}
-                                    placeholder="Q-4 Revenue ($)"
+                                    placeholder="Enter Q-4 Revenue ($)"
                                     value={
                                       this.state.updatefinancials.Q4Revenue == 0
                                         ? ""
@@ -1979,7 +1979,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Division"
                                   styles={textFieldProps}
-                                  placeholder="Division"
+                                  placeholder="Enter Division"
                                   value={this.state.updatedivision.Division}
                                   onChange={(event, value) =>
                                     this.handleDivisionsTextFieldChange(
@@ -2032,7 +2032,7 @@ export default class EiEditAccount extends React.Component<
                                   styles={textFieldProps}
                                   multiline
                                   rows={6}
-                                  placeholder="Description..."
+                                  placeholder="Enter Description..."
                                   value={this.state.updatedivision.Description}
                                   onChange={(event, value) =>
                                     this.handleDivisionsTextFieldChange(
@@ -2190,7 +2190,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Engagement Area"
                                   styles={textFieldProps}
-                                  placeholder="Engagement Area"
+                                  placeholder="Enter Engagement Area"
                                   value={this.state.updatecompetitors.Category}
                                   onChange={(event, value) =>
                                     this.handleCompetitorsTextFieldChange(
@@ -2212,7 +2212,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Name"
                                   styles={textFieldProps}
-                                  placeholder="Name"
+                                  placeholder="Enter Name"
                                   value={this.state.updatecompetitors.Name}
                                   onChange={(event, value) =>
                                     this.handleCompetitorsTextFieldChange(
@@ -2236,7 +2236,7 @@ export default class EiEditAccount extends React.Component<
                                     <TextField
                                       label="Team Size"
                                       styles={textFieldProps}
-                                      placeholder="Team Size"
+                                      placeholder="Enter Team Size"
                                       value={
                                         this.state.updatecompetitors.TeamSize ==
                                           0
@@ -2300,7 +2300,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Engagement Rate ($)"
                                   styles={textFieldProps}
-                                  placeholder="Engagement Rate"
+                                  placeholder="Enter Engagement Rate"
                                   value={
                                     this.state.updatecompetitors.EngagementRate
                                   }
@@ -2323,7 +2323,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Primary Technology"
                                   styles={textFieldProps}
-                                  placeholder="Primary Technology"
+                                  placeholder="Enter Primary Technology"
                                   value={
                                     this.state.updatecompetitors
                                       .PrimaryTechnology
@@ -2339,7 +2339,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Secondary Technology"
                                   styles={textFieldWithDescProps}
-                                  placeholder="Secondary Technology"
+                                  placeholder="Enter Secondary Technology"
                                   description="Separate technology with “,”"
                                   value={
                                     this.state.updatecompetitors
@@ -2659,7 +2659,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Full Name"
                                   styles={textFieldProps}
-                                  placeholder="Full Name"
+                                  placeholder="Enter Full Name"
                                   value={
                                     this.state.updatecustomerstackholders
                                       .FullName
@@ -2685,7 +2685,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Designation"
                                   styles={textFieldProps}
-                                  placeholder="Designation"
+                                  placeholder="Enter Designation"
                                   value={
                                     this.state.updatecustomerstackholders
                                       .Designation
@@ -2711,7 +2711,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="Email"
                                   styles={textFieldProps}
-                                  placeholder="Email"
+                                  placeholder="Enter Email"
                                   value={
                                     this.state.updatecustomerstackholders.Email
                                   }
@@ -2727,7 +2727,7 @@ export default class EiEditAccount extends React.Component<
                                 <TextField
                                   label="LinkedIn ID"
                                   styles={textFieldProps}
-                                  placeholder="LinkedIn ID"
+                                  placeholder="Enter LinkedIn ID"
                                   value={
                                     this.state.updatecustomerstackholders
                                       .LinkedInID

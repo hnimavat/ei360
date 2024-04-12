@@ -192,7 +192,7 @@ export default class EngagementDashboardDocuments extends React.Component<IEngag
                                             onChange={(ev, checked: boolean) => this.handleChangeFilter("All")} />
                                     </div>
                                     {this.state.categoryChoices.map((x) => {
-                                        return <div className="card flex justify-content-center">
+                                        return <div key='' className="card flex justify-content-center">
                                             <Checkbox label={x}
                                                 checked={this.state.categoryFilter && this.state.categoryFilter.includes(x)}
                                                 onChange={(ev, checked: boolean) => this.handleChangeFilter(x)} />
@@ -206,7 +206,7 @@ export default class EngagementDashboardDocuments extends React.Component<IEngag
                                 <div className='headerDiv'>
                                     <div className='checkAll'>
                                         <Checkbox
-                                            label="Select All to Download"
+                                            label="Select all to download"
                                             checked={this.state.selectedFiles.length === this.filteredDate().length}
                                             onChange={(ev, checked) => {
                                                 const fileNames = checked ? this.filteredDate().map((x) => x.File.Name) : [];
@@ -226,7 +226,7 @@ export default class EngagementDashboardDocuments extends React.Component<IEngag
                                 <div className='bodyDiv'>
                                     {this.state.libraryData && Object.keys(this.categorizedData()).map((category) => {
                                         const fileNames = this.categorizedData()[category].map((x) => x.File.Name);
-                                        return <div className='listing_block'>
+                                        return <div key="" className='listing_block'>
                                             <div className='listing_header_block'>
                                                 <div className='checkListing_all'>
                                                     <Checkbox
@@ -243,7 +243,7 @@ export default class EngagementDashboardDocuments extends React.Component<IEngag
                                             <div className='listing_body_block'>
                                                 <ul className='i-flex-3'>
                                                     {this.categorizedData()[category].slice(0, 3).map((document) => {
-                                                        return <li>
+                                                        return <li key=''>
                                                             <div className='i_docs_card'>
                                                                 <Checkbox name='11'
                                                                     checked={this.state.selectedFiles && this.state.selectedFiles.includes(document.File.Name)}

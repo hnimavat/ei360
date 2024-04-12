@@ -193,7 +193,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
                 feedbackIsOpen: false,
                 kpiFeedbackFormFields: this.getFeedbackFormFields()
             });
-            toast.success("Your Feedback submitted successfully.");
+            toast.success("Your feedback submitted successfully.");
             this.screenInit();
         })
     }
@@ -244,7 +244,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
 
                 this.spServices.createMultipleItems(this.props.KPIsListName, data).then((res) => {
                     if (res) {
-                        toast.success("KPIs Created Successfully");
+                        toast.success("KPIs created Successfully");
                         this.screenInit();
                         this.setState({
                             createPopup: false,
@@ -403,7 +403,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
 
                     this.spServices.updateItem(this.props.KPIsListName, this.state.selectedKPI.Id, obj).then((res) => {
                         this.handleEditKPIPopup(null);
-                        toast.success("KPI Updated successfully.")
+                        toast.success("KPI updated successfully.")
                         this.screenInit();
                     })
                 } else {
@@ -428,7 +428,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
                             addPopup: false
                         });
                         this.screenInit();
-                        toast.success("KPI Created successfully.");
+                        toast.success("KPI created successfully.");
                     })
                 }
             }else{
@@ -521,7 +521,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
         return (
             <>
                 <Toaster
-                    position="top-right"
+                    position="bottom-right"
                     reverseOrder={false} />
                 <div>
                     <ul className='breadcrumb'>
@@ -637,7 +637,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
                                                                 </div>
                                                             </div>
                                                             {this.state.kpiFormFields.KPIs.map((kpi) => {
-                                                                return <div className={['i-row', styles.KPIsSection].join(" ")}>
+                                                                return <div key='' className={['i-row', styles.KPIsSection].join(" ")}>
                                                                     {this.state.kpiFormFields.KPIs.length > 1 &&
                                                                         <div className='i-col-12 text-right'>
                                                                             <IconButton
@@ -730,7 +730,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
                                 </div>
                                 <ul className={['i-flex-4', styles.cardRow].join(" ")}>
                                     {this.getKPIsData().map((kpi) => {
-                                        return <li>
+                                        return <li key=''>
                                             <div className='details_card'>
                                                 <IconButton
                                                     className='editBtn'
@@ -801,7 +801,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
                                 </div>
                                 <ul className={['i-flex-4', styles.cardRow].join(" ")}>
                                     {this.getKPIsData().map((kpi) => {
-                                        return <li>
+                                        return <li key=''>
                                             <div className='details_card'>
                                                 <IconButton className='editBtn' 
                                                 iconProps={{ iconName: 'EditSolid12' }}
@@ -926,7 +926,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
                                                 </div>
                                             </div>
                                             {this.state.kpiFormFields.KPIs.map((kpi) => {
-                                                return <div className={['i-row', styles.KPIsSection].join(" ")}>
+                                                return <div key='' className={['i-row', styles.KPIsSection].join(" ")}>
                                                     {this.state.kpiFormFields.KPIs.length > 1 &&
                                                         <div className='i-col-12 text-right'>
                                                             <IconButton className='deleteBtn' iconProps={{ iconName: 'Delete' }} title="Delete" ariaLabel="Delete" onClick={() => this.handleDeleteField(kpi.id)}/>
@@ -1010,7 +1010,7 @@ export default class EngagementDashboardEngagementKpIs extends React.Component<I
                         <div className='recent-feedback'>
                             <div className='feedback-title'>Recent Feedback</div>
                             {this.getFeedbacks().map((e) => {
-                                return <div className='feedback-content'>
+                                return <div key='' className='feedback-content'>
                                     <div className='i-col-12 text-right'>
                                         <IconButton className='deleteBtn'
                                             iconProps={{ iconName: 'Delete' }} title="Delete"

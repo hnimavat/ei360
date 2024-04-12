@@ -314,12 +314,12 @@ export default class EiAccountDashboardUpdates extends React.Component<
 
       // After sending email
       console.log("Updates Shared Successfully"); // Console log
-      toast.success("Updates Shared Successfully"); // Alert
+      toast.success("Updates shared Successfully"); // Alert
 
       this.setState({ sharePopup: false });
     } catch (error) {
       console.error("Error sending email:", error);
-      toast.error("Error sending email. Please try again."); // Alert user about error
+      toast.error("Error sending email, Please try again."); // Alert user about error
       this.setState({ sharePopup: false });
     }
 
@@ -743,7 +743,7 @@ export default class EiAccountDashboardUpdates extends React.Component<
           if (updateUpdate.ID != 0) {
             toast.success('Update details updated successfully.');
           } else {
-            toast.success('Update details saved successfully.');
+            toast.success('Update details added successfully.');
           }
 
         } else {

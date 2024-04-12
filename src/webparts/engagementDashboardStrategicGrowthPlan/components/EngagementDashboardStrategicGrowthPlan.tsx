@@ -210,7 +210,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
 
         this.spServices.updateItem(this.props.strategicListName, obj.Id, data).then((res) => {
           this.handleCancleGrowthPopup();
-          toast.success("Growth Plan Updated Successfully.");
+          toast.success("Growth plan updated successfully.");
           this.screenInit();
           if (saveAs) {
             this.handleCreateGrowthActionSaveAs(obj);
@@ -223,7 +223,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
 
         this.spServices.createItem(this.props.strategicListName, obj).then((res) => {
           this.handleCancleGrowthPopup();
-          toast.success("Growth Plan Created Successfully.");
+          toast.success("Growth plan created successfully.");
           this.screenInit();
           if (saveAs) {
             this.handleCreateGrowthActionSaveAs(res.data);
@@ -252,7 +252,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
         }
         this.spServices.updateItem(this.props.strategicActionsListName, obj.Id, data).then((res) => {
           this.handleCancelGrowthActionPopup();
-          toast.success("Growth Plan Action Updated Successfully.");
+          toast.success("Growth plan action updated successfully.");
           this.screenInit();
           if (saveAs) {
             this.handleCreateGrowthActionSaveAs(strategic);
@@ -261,7 +261,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
       } else {
         this.spServices.createItem(this.props.strategicActionsListName, obj).then((res) => {
           this.handleCancelGrowthActionPopup();
-          toast.success("Growth Plan Action Created Successfully.");
+          toast.success("Growth plan action added successfully.");
           this.screenInit();
           if (saveAs) {
             this.handleCreateGrowthActionSaveAs(strategic);
@@ -275,7 +275,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
 
   private async handleDeleteItem(listName: string, itemId: any) {
     this.spServices.deleteItem(listName, itemId).then((res) => {
-      toast.success("data deleted successfully");
+      toast.success("Growth plan data deleted successfully");
       this.setState({
         isDeletePopup: {
           IsShow: true,
@@ -532,7 +532,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
     return (
       <>
         <Toaster
-          position="top-right" reverseOrder={false} />
+          position="bottom-right" reverseOrder={false} />
         <div>
           <ul className='breadcrumb'>
             <li>
@@ -569,7 +569,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
           </div>
           <Accordion activeIndex={0}>
             {this.state.stratagicGrowthPlanData && this.growthData().map((stratagic) => {
-              return <AccordionTab
+              return <AccordionTab key=''
                 header={
                   <div className='accordion_title justify-between'>
                     {stratagic.Subject}
@@ -638,7 +638,7 @@ export default class EngagementDashboardStrategicGrowthPlan extends React.Compon
                         styles={textFieldProps}
                         value={stratagicGrowthPlanForm.Subject}
                         onChange={(ev, value) => this.handleChangeGrowthFormField("Subject", value)}
-                        placeholder="Growth plan 1 - Growth in Data Center"
+                        placeholder="Enter Subject"
                         className='mt-0'
                         onBlur={this.handleTextFieldBlur}
                         errorMessage={

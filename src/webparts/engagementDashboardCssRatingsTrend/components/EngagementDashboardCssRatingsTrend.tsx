@@ -102,6 +102,7 @@ export default class EngagementDashboardCssRatingsTrend extends React.Component<
                     <Stack className='formChildGap'>
                       <Dropdown
                         label='Account'
+                        placeholder='Select Account'
                         defaultSelectedKey="JCI"
                         options={dropDownoptions}
                         styles={dropdownStyles}
@@ -109,6 +110,7 @@ export default class EngagementDashboardCssRatingsTrend extends React.Component<
                       />
                       <Dropdown
                         label='BU'
+                        placeholder='Select BU'
                         defaultSelectedKey="digital"
                         options={buOptions}
                         styles={dropdownStyles}
@@ -116,6 +118,7 @@ export default class EngagementDashboardCssRatingsTrend extends React.Component<
                       />
                       <Dropdown
                         label='Programs/Projects'
+                        placeholder='Select Programs/Projects'
                         defaultSelectedKey="all"
                         options={projectsOptions}
                         styles={dropdownStyles}

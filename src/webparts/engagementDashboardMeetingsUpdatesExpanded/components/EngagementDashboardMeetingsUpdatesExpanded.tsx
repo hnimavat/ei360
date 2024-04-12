@@ -177,7 +177,7 @@ export default class EngagementDashboardMeetingsUpdatesExpanded extends React.Co
             Account_Name: this.state.accountName
           })
 
-          toast.success('Meeting details saved successfully.');
+          toast.success('Meeting details added successfully.');
           console.log("New Meetings details added successfully.");
           result = true;
         }
@@ -692,7 +692,7 @@ export default class EngagementDashboardMeetingsUpdatesExpanded extends React.Co
                                 <TextField
                                   label="Title"
                                   styles={textFieldProps}
-                                  placeholder="Title"
+                                  placeholder="Enter Title"
                                   value={this.state.updateMeetingsAndUpdates.Title}
                                   onChange={(event, value) => this.handleMeetingsTextFieldChange('Title', value, null)}
                                   onBlur={this.handleTextFieldBlur}
@@ -709,7 +709,7 @@ export default class EngagementDashboardMeetingsUpdatesExpanded extends React.Co
                                 <TextField
                                   label="Attendee"
                                   styles={textFieldProps}
-                                  placeholder="Attendee"
+                                  placeholder="Enter Attendee"
                                   description="Separate Attendee with “,”"
                                   value={this.state.updateMeetingsAndUpdates.Attendee}
                                   onChange={(event, value) => this.handleMeetingsTextFieldChange('Attendee', value, null)}
@@ -797,7 +797,7 @@ export default class EngagementDashboardMeetingsUpdatesExpanded extends React.Co
                                 <TextField
                                   label="Description"
                                   styles={textFieldProps}
-                                  placeholder="Description"
+                                  placeholder="Enter Description"
                                   value={this.state.updateMeetingsAndUpdates.Description}
                                   onChange={(event, value) => this.handleMeetingsTextFieldChange('Description', value, null)}
                                 />

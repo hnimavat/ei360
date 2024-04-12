@@ -235,7 +235,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
           isTouched: false,
         });
         await this.screenInit();
-        toast.success("Escalation data update successfully.");
+        toast.success("Escalation data updated successfully.");
       }).catch((err) => console.log(err));
     }
   }

@@ -183,6 +183,7 @@ export default class EngagementDashboardBusinvolved extends React.Component<IEng
                       <Stack className='formChildGap'>
                         <Dropdown
                           label='Account'
+                          placeholder='Select Account'
                           defaultSelectedKey="JCI"
                           options={options}
                           styles={dropdownStyles}
@@ -190,14 +191,14 @@ export default class EngagementDashboardBusinvolved extends React.Component<IEng
                         />
                         <Dropdown
                           label='Program/Projects'
-                          placeholder='All'
+                          placeholder='Select Program/Projects'
                           options={projectProgramOptions}
                           styles={dropdownStyles}
                           className='droupdown'
                         /> 
                         <Dropdown
                           label='Locations'
-                          placeholder='All'
+                          placeholder='Select Locations'
                           options={LocationOptions}
                           styles={dropdownStyles}
                           className='droupdown'

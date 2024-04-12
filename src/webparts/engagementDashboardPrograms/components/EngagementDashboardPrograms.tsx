@@ -274,7 +274,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
                       />
                       <Dropdown
                         label='Programs/Projects'
-                        placeholder="All"
+                        placeholder="Select Programs/Projects"
                         options={buOptions}
                         styles={dropdownStyles}
                         className='droupdown'

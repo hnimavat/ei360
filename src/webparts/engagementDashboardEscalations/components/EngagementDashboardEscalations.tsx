@@ -429,7 +429,7 @@ export default class EngagementDashboardEscalations extends React.Component<IEng
                     {escalationData &&
                       projectOptions.filter((res) => res.accountName == accountName).map((item, index) => {
                         return (
-                          <li>
+                          <li key=''>
                             <div className='card_border_skyblue' onClick={() => window.open("EscalationsProgramDetail.aspx" + "?accountName=" + accountName + "&ProjectName=" + item.key, "_self")}>
                               <div className='header_card'>
                                 <div className='title'>{item.key}</div>

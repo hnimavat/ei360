@@ -194,6 +194,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
                     <Stack className='formChildGap'>
                     <Dropdown
                         label='Account'
+                        placeholder='Select Account'
                         defaultSelectedKey="JCI"
                         options={options}
                         styles={dropdownStyles}
@@ -201,6 +202,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
                       />
                       <Dropdown
                         label='BU'
+                        placeholder='Select BU'
                         defaultSelectedKey="digital"
                         options={buOptions}
                         styles={dropdownStyles}
@@ -208,6 +210,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
                       />
                       <Dropdown
                         label='Programs/Projects'
+                        placeholder='Select Programs/Projects'
                         defaultSelectedKey="all"
                         options={projectsOptions}
                         styles={dropdownStyles}

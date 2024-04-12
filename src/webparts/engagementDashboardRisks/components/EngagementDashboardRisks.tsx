@@ -512,7 +512,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
                         />
                         <Dropdown
                           label='Programs/Projects'
-                          placeholder="All"
+                          placeholder="Select Programs/Projects"
                           selectedKey={this.state.filters.ProjectName}
                           options={this.state.projectOptions.filter((x) => x.accountName == accountName)}
                           onChange={(ev, option) => this.handleFilterChange("ProjectName", option?.key)}

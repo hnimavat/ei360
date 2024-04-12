@@ -216,6 +216,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                   <Stack className='formChildGap'>
                     <Dropdown
                       label='Account'
+                      placeholder='Select Account'
                       defaultSelectedKey='JCI'
                       options={options}
                       styles={dropdownStyles}
@@ -223,14 +224,14 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                     />
                     <Dropdown
                       label='View By'
-                      placeholder='Common'
+                      placeholder='Select View By'
                       options={options}
                       styles={dropdownStyles}
                       className='droupdown'
                     />
                     <Dropdown
                       label='BU' 
-                      placeholder="All"
+                      placeholder="Select BU"
                       options={buOptions}
                       styles={dropdownStyles}
                       className='droupdown'

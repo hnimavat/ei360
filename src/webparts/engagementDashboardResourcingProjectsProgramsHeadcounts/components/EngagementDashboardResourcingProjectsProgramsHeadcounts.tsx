@@ -224,7 +224,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
                       />
                       <Dropdown
                         label='Location'
-                        placeholder="All"
+                        placeholder="Select Location"
                         options={buOptions}
                         styles={dropdownStyles}
                         className='droupdown'

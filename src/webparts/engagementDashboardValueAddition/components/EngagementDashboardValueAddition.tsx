@@ -114,13 +114,13 @@ export default class EngagementDashboardValueAddition extends React.Component<IE
         }
         this.spServices.updateItem(this.props.listName, Id, obj).then((res) => {
           this.handleCancelPopup();
-          toast.success("Value Addition updated successfully.");
+          toast.success("Value addition updated successfully.");
           this.screenInit();
         });
       } else {
         this.spServices.createItem(this.props.listName, this.state.formFields).then((res) => {
           this.handleCancelPopup();
-          toast.success("Value Addition created successfully.");
+          toast.success("Value addition added successfully.");
           this.screenInit();
         })
       }
@@ -160,10 +160,10 @@ export default class EngagementDashboardValueAddition extends React.Component<IE
       console.log("Going to delete success ", itemId);
       
       this.screenInit(); 
-      toast.success('Value Addition details deleted successfully.');
+      toast.success('Value addition data deleted successfully.');
       this.setState({ hideDialog: false })
 
-      console.log("Value Addition deleted successfully!");
+      console.log("Value addition deleted successfully.");
     } catch (error) {
       console.error("Error Deleting Value Addition:", error);
     }
@@ -253,7 +253,7 @@ export default class EngagementDashboardValueAddition extends React.Component<IE
 
     return (
       <>
-        <Toaster position="top-right" reverseOrder={false} />
+        <Toaster position="bottom-right" reverseOrder={false} />
         <div>
           <ul className='breadcrumb'>
             <li>
@@ -269,6 +269,7 @@ export default class EngagementDashboardValueAddition extends React.Component<IE
             <div className={`titleWrap ${styles.dropdownWidth}`}>
             <Dropdown
               label='Category'
+              placeholder='Select Category'
               selectedKey={this.state.selectedCategory}
               options={this.state.categoryChoices}
               onChange={(ev,option:any)=> this.setState({ selectedCategory: option?.key})}
@@ -285,7 +286,7 @@ export default class EngagementDashboardValueAddition extends React.Component<IE
         </section>
         <Accordion activeIndex={0}>
         {this.state.bestPracticesData && this.getBestPracticesData().map((item)=>{
-            return <AccordionTab
+            return <AccordionTab key=''
             header={
               <div className='accordion_title justify-between'>
                 <div className='d-flex align-items-center'>{item.Subject} <span className='badge'>{item.Category}</span></div>

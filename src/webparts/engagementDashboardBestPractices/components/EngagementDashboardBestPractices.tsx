@@ -113,7 +113,7 @@ export default class EngagementDashboardBestPractices extends React.Component<IE
       }else{
         this.spServices.createItem(this.props.listName, this.state.formFields).then((res)=>{
           this.handleCancelPopup();
-          toast.success("Best Practices created successfully.");
+          toast.success("Best Practices added successfully.");
           this.screenInit();
         })
       }
@@ -248,7 +248,7 @@ export default class EngagementDashboardBestPractices extends React.Component<IE
     };
     return (
       <>
-      <Toaster position="top-right" reverseOrder={false} />
+      <Toaster position="bottom-right" reverseOrder={false} />
         <div>
           <ul className='breadcrumb'>
             <li>
@@ -262,6 +262,7 @@ export default class EngagementDashboardBestPractices extends React.Component<IE
           <div className={`titleWrap ${styles.dropdownWidth}`}>
             <Dropdown
               label='Category'
+              placeholder='Select Category'
               selectedKey={this.state.selectedCategory}
               options={this.state.categoryChoices}
               onChange={(ev,option:any)=> this.setState({ selectedCategory: option?.key})}
@@ -278,7 +279,7 @@ export default class EngagementDashboardBestPractices extends React.Component<IE
       </section> 
         <Accordion activeIndex={0}>
           {this.state.bestPracticesData && this.getBestPracticesData().map((item)=>{
-            return <AccordionTab
+            return <AccordionTab key=''
             header={
               <div className='accordion_title justify-between'>
                 <div className='d-flex align-items-center'>{item.Subject} <span className='badge'>{item.Category}</span></div>

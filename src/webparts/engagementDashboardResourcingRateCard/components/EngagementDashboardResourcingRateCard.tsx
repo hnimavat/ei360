@@ -215,6 +215,7 @@ export default class EngagementDashboardResourcingRateCard extends React.Compone
                     <Stack className='formChildGap'>
                       <Dropdown
                         label='Account'
+                        placeholder='Select Account'
                         defaultSelectedKey="JCI"
                         options={accountOptions}
                         styles={dropdownStyles}
@@ -222,6 +223,7 @@ export default class EngagementDashboardResourcingRateCard extends React.Compone
                       />
                       <Dropdown
                         label='Location'
+                        placeholder='Select Location'
                         defaultSelectedKey="all"
                         options={locationOptions}
                         styles={dropdownStyles}
@@ -229,6 +231,7 @@ export default class EngagementDashboardResourcingRateCard extends React.Compone
                       />
                       <Dropdown
                         label='Programs/Projects'
+                        placeholder='Select Programs/Projects'
                         defaultSelectedKey="521_Connect Gateway App Porting"
                         options={programOptions}
                         styles={dropdownStyles}

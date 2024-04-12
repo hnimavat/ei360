@@ -215,10 +215,10 @@ export default class EiAccountsQuickLinks extends React.Component<IEiAccountsQui
                     <div className={styles.modalContent}>
                       <Stack {...columnProps}>
 
-                        <TextField label="Name" styles={textFieldProps} placeholder="Name" className='mt-0' onChange={(event, value) => this.handleQuickLinksTextFieldChange('Name', value, null)}
+                        <TextField label="Name" styles={textFieldProps} placeholder="Enter Name" className='mt-0' onChange={(event, value) => this.handleQuickLinksTextFieldChange('Name', value, null)}
                           errorMessage={this.state.isTouched && !this.state.updateQuickLinks.Name ? 'Name is required.' : ''}
                           required />
-                        <TextField label="URL" styles={textFieldProps} placeholder="URL" className='mt-0' onChange={(event, value) => this.handleQuickLinksTextFieldChange('URL', value, null)}
+                        <TextField label="URL" styles={textFieldProps} placeholder="Enter URL" className='mt-0' onChange={(event, value) => this.handleQuickLinksTextFieldChange('URL', value, null)}
                           errorMessage={this.state.isTouched && !this.state.updateQuickLinks.URL ? 'URL is required.' : ''}
                           required />
                       </Stack>
