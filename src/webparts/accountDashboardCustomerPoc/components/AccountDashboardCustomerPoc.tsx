@@ -508,7 +508,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                           label="Full Name"
                           styles={textFieldProps}
                           placeholder="Full Name"
-                          value={this.state.editCustomerField.FullName}
+                          value={this.state.editCustomerField?.FullName}
                           onChange={(event, value) => this.handleEditCustomer("FullName", value)}
                           onBlur={handleTextFieldBlur}
                           errorMessage={
@@ -525,7 +525,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                           label="Designation"
                           styles={textFieldProps}
                           placeholder="Designation"
-                          value={this.state.editCustomerField.Designation}
+                          value={this.state.editCustomerField?.Designation}
                           onChange={(event, value) =>
                             this.handleEditCustomer("Designation",
                               value
@@ -547,7 +547,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                           styles={textFieldProps}
                           placeholder="Email"
                           value={
-                            this.state.editCustomerField.Email
+                            this.state.editCustomerField?.Email
                           }
                           onChange={(event, value) =>
                             this.handleEditCustomer(
@@ -562,8 +562,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                           styles={textFieldProps}
                           placeholder="LinkedIn ID"
                           value={
-                            this.state.editCustomerField
-                              .LinkedInID
+                            this.state.editCustomerField?.LinkedInID
                           }
                           onChange={(event, value) =>
                             this.handleEditCustomer(
@@ -576,7 +575,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                         <Dropdown
                           label="Relation with EIC"
                           placeholder="Select Relation with EIC"
-                          selectedKey={this.state.editCustomerField.RelationwithEIC}
+                          selectedKey={this.state.editCustomerField?.RelationwithEIC}
                           options={optionsCustomerStakeholders}
                           styles={dropdownStyles}
                           className="droupdown"
@@ -598,7 +597,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                         <Dropdown
                           label="Programs"
                           placeholder="Select Program"
-                          selectedKey={this.state.editCustomerField.Project}
+                          selectedKey={this.state.editCustomerField?.Project}
                           options={this.state.projectOptions.filter((x: any) => x.accountName === this.state.editCustomerField.Account_Name)}
                           styles={dropdownStyles}
                           className="droupdown"
@@ -613,7 +612,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                           label="Division"
                           styles={textFieldProps}
                           placeholder="Entert Division"
-                          value={this.state.editCustomerField.BusinessUnit}
+                          value={this.state.editCustomerField?.BusinessUnit}
                           onChange={(event, value) =>
                             this.handleEditCustomer(
                               "BusinessUnit",
@@ -626,7 +625,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                           label="Contact"
                           styles={textFieldProps}
                           placeholder="Entert Contact No"
-                          value={this.state.editCustomerField.Contact}
+                          value={this.state.editCustomerField?.Contact}
                           onChange={(event, value) =>
                             this.handleEditCustomer(
                               "Contact",
@@ -640,8 +639,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                           styles={textFieldProps}
                           placeholder="Manager Email"
                           value={
-                            this.state.editCustomerField
-                              .ManagerEmail
+                            this.state.editCustomerField?.ManagerEmail
                           }
                           onChange={(event, value) =>
                             this.handleEditCustomer(
@@ -654,7 +652,7 @@ export default class EiAccountsTilesDetails extends React.Component<IAccountDash
                         <Dropdown
                           label="Report To"
                           placeholder="Select Report To"
-                          selectedKey={this.state.editCustomerField.ReportToId}
+                          selectedKey={this.state.editCustomerField?.ReportToId}
                           options={this.state.customerPOCData.map((item: any) => ({
                             key: item.ID,
                             text: item.FullName,

@@ -167,9 +167,9 @@ export default class EiAccountsOverview extends React.Component<
 
   doSomething = (e: any) => {
     e.preventDefault();
-    this.setState({
-      readMore: !this.state.readMore,
-    });
+    this.setState((prevState) => ({
+      readMore: !prevState.readMore,
+    }));
   };
 
   public render(): React.ReactElement<IEiAccountsOverviewProps> {
@@ -288,7 +288,7 @@ export default class EiAccountsOverview extends React.Component<
                     ? this.state.accountDetails.AccountDescription
                     : "-"}
                 </span>
-                {this.state.accountDetails.AccountDescription.length > 500 && (
+                {this.state.accountDetails.AccountDescription?.length > 500 && (
                   <a
                   href="javascript:void(0)"
                   onClick={this.doSomething}

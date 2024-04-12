@@ -208,9 +208,39 @@ export default class EiEditAccount extends React.Component<
     this.eiAccountService = new EiAccountService();
   }
 
+  // public async componentDidMount(): Promise<void> {
+  //   console.log('componentDidMount');
+  //   let accountname = await this.getQueryStringParameters();
+  //   console.log(accountname);
+  //   if(accountname != null){
+  //     const accountdetails: IAccountDetails = await this.eiAccountService.getAccountDetails(accountname);
+  //     console.log(accountdetails);
+
+  //     if (accountdetails) {
+  //       console.log("Account details found:", accountdetails);
+  //       this.setState({ accountDetails: accountdetails });
+  //       console.log("Account details found:", this.state.accountDetails.AccountName);
+
+  //       await this.getDivisions(this.state.accountDetails.ID);
+  //       await this.getFinancials(this.state.accountDetails.ID);
+  //       await this.getCompetitors(this.state.accountDetails.ID);
+  //       await this.getCustomersStackholders(this.state.accountDetails.ID);
+
+  //     } else {
+  //       this.setState({
+  //         accountDetails: {
+  //             ...this.state.accountDetails,
+  //             AccountName: accountname
+  //         }
+  //       });
+  //       console.log("No account details found.");
+  //     }
+  //   }
+  // }
   public async componentDidMount(): Promise<void> {
     console.log("componentDidMount");
 
+    // let accounts = uniqBy(data.data, "clientName");
     this.setState({
       projectOptions: jsonData.data.map((x: any) => { return { key: x.projectName, text: x.projectName, accountName: x.clientName } })
     })

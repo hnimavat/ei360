@@ -404,7 +404,7 @@ export default class EiExecutiveSummary extends React.Component<IEiExecutiveSumm
               <div className='i-row'>
                 {this.getLeftBoxData(tabData, selectedView).map((item: any) => {
                   return (
-                    <div className='i-col-4 i-mb-13'>
+                    <div key='' className='i-col-4 i-mb-13'>
                       <div className='summary_smallCard'>
                         <div className='account_detail'>
                           <div className='account_name'>{item.name}</div>
@@ -432,7 +432,7 @@ export default class EiExecutiveSummary extends React.Component<IEiExecutiveSumm
         </div>
         <div className='i-col-5'>
           <div className='summaryTab_card'>
-            <div className='tableTitle i-mb-13'>{tabHeading + " in " + (!(this.state.selectedView === 'AccountName') ? "Accounts" : "BUs")}</div>
+            <div className='tableTitle i-mb-13'>{tabHeading + " in " + (this.state.selectedView !== 'AccountName' ? "Accounts" : "BUs")}</div>
             <div className='d-flex justify-between align-items-center flex-wrap i-rgap-10 i-mb-20'>
               <div>
                 <SearchBox
@@ -465,13 +465,13 @@ export default class EiExecutiveSummary extends React.Component<IEiExecutiveSumm
               <div className='summary_smallCard_wrap'>
                 <div className='i-row'>
                   {this.getRightBoxData(tabData, selectedView).map((item) => {
-                    return <div className='i-col-4 i-mb-13'>
+                    return <div key='' className='i-col-4 i-mb-13'>
                       <div className='summary_smallCard_withoutLink'>
                         <div className='account_detail'>
                           <div className='account_name'>{item.name}</div>
                           <div className='account_value'>{item.value}</div>
                         </div>
-                        {!(this.state.selectedView === 'AccountName') && <div className='account_control'>
+                        {this.state.selectedView !== 'AccountName' && <div className='account_control'>
                           <Link onClick={() => this.linkRedirect(pageLink, item.name)}>
                             <FontAwesomeIcon icon={faLink} className='account_link'></FontAwesomeIcon>
                           </Link>
@@ -602,7 +602,7 @@ export default class EiExecutiveSummary extends React.Component<IEiExecutiveSumm
                   <div className='legendValue'>
                     <ul>
                       {this.state.risksChartData && this.state.risksChartData.map((r: any) => {
-                        return <li>{r.data}</li>
+                        return <li key=''>{r.data}</li>
                       })}
                     </ul>
                   </div>
@@ -635,7 +635,7 @@ export default class EiExecutiveSummary extends React.Component<IEiExecutiveSumm
                   <div className='legendValue'>
                     <ul>
                       {this.state.escalationsChartData && this.state.escalationsChartData.map((r: any) => {
-                        return <li>{r.data}</li>
+                        return <li key=''>{r.data}</li>
                       })}
                     </ul>
                   </div>

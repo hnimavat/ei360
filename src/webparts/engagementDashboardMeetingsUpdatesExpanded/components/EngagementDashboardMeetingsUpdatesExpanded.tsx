@@ -316,7 +316,7 @@ export default class EngagementDashboardMeetingsUpdatesExpanded extends React.Co
         await Promise.all(selectedRows.map(async (row: any) => {
           isdeleted = await this.eiEDServices.deleteItem('Engagement_Meetings', row.ID);
         }));
-      } else if (deleteMeetingId != 0 || deleteMeetingId != null) {
+      } else if (deleteMeetingId != 0) {
         isdeleted = await this.eiEDServices.deleteItem('Engagement_Meetings', deleteMeetingId);
       }
 

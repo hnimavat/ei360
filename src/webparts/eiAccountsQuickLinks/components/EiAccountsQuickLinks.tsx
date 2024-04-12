@@ -40,7 +40,7 @@ export default class EiAccountsQuickLinks extends React.Component<IEiAccountsQui
     this.eiAccountService = new EiAccountService();
 
     // Bind the method to maintain correct context
-    this.handleQuickLinksTextFieldChange = this.handleQuickLinksTextFieldChange.bind(this);
+    // this.handleQuickLinksTextFieldChange = this.handleQuickLinksTextFieldChange.bind(this);
   }
 
   public async componentDidMount(): Promise<void> {

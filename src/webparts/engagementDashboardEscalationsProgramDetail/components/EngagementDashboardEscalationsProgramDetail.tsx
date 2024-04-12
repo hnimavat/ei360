@@ -338,7 +338,7 @@ export default class EiAccountsTilesDetails extends React.Component<IEngagementD
         await Promise.all(selectedData.map(async (row: any) => {
           isdeleted = await this.spServices.deleteItem(this.props.listName, row.ID);
         }));
-      } else if (deleteItemId != 0 || deleteItemId != null) {
+      } else if (deleteItemId != 0) {
         isdeleted = await this.spServices.deleteItem(this.props.listName, deleteItemId);
       }
 

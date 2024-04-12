@@ -38,6 +38,7 @@ import { Dialog, DialogType, DialogFooter } from "@fluentui/react/lib/Dialog";
 
 import { SPFx, spfi } from "@pnp/sp";
 import { IEmailProperties } from "@pnp/sp/sputilities";
+import "@pnp/sp/sputilities";
 import { Toaster, toast } from 'react-hot-toast';
 
 export interface IEiAccountDashboardUpdatesState {
@@ -107,11 +108,11 @@ export default class EiAccountDashboardUpdates extends React.Component<
     };
 
     this.eiAccountService = new EiAccountService();
-    this.handleCategoryChangeUpdate =
-      this.handleCategoryChangeUpdate.bind(this);
-    // Bind the method to maintain correct context
-    this.handleUpdatesTextFieldChange =
-      this.handleUpdatesTextFieldChange.bind(this);
+    // this.handleCategoryChangeUpdate =
+    //   this.handleCategoryChangeUpdate.bind(this);
+    // // Bind the method to maintain correct context
+    // this.handleUpdatesTextFieldChange =
+    //   this.handleUpdatesTextFieldChange.bind(this);
   }
   public handleInputChange = async (event: any) => {
     const { id, value } = event.target;
@@ -196,8 +197,7 @@ export default class EiAccountDashboardUpdates extends React.Component<
     // console.log("Category", this.state.Category);
     // this.setState({ companyName: updates[0]?.AccountName?.AccountName || "" });
     this.setState({
-      updates,
-      selectedCategory,
+      updates: updates,
       companyName: AccountName.replace(/"/g, ""),
     });
   }
@@ -329,8 +329,8 @@ export default class EiAccountDashboardUpdates extends React.Component<
   private validateEmails(emails: string): boolean {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; // Simple email validation regex
     const emailArray = emails.split(";"); // Split email addresses by semicolon
-    for (const element of emailArray) {
-      if (!emailRegex.test(element.trim())) {
+    for (let i = 0; i < emailArray.length; i++) {
+      if (!emailRegex.test(emailArray[i].trim())) {
         return false; // Return false if any email address is invalid
       }
     }
@@ -386,8 +386,8 @@ export default class EiAccountDashboardUpdates extends React.Component<
     await this.getUpdates(this.props.event.tryGetValue());
     this.setState({
       hideDialog: false, selectedRowData: [], selectedRows: [],
-      isTouchedUpdate: false,
-      updateDisabled: true,
+      isTouchedUpdate : false,
+      updateDisabled : true,
       updateUpdate: {
         ID: 0,
         UpdateName: "",
@@ -800,7 +800,7 @@ export default class EiAccountDashboardUpdates extends React.Component<
     this.setState({
       updateUpdate: {
         ...this.state.updateUpdate,
-        Category: option?.key ?? "",
+        Category: option?.key || "",
       },
       isTouched: true,
     });
