@@ -1,0 +1,36 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.divisionWrapper{
+  padding: 16px 14px;
+
+  ul{
+    overflow: scroll;
+
+    &.divisionHeight{
+      max-height: 225px;
+    }
+  }
+  li{
+    margin-bottom: 8px !important;
+  }
+}
+.accountSectionTitle{
+  margin-bottom: 10px;
+}
+.list{
+  padding: 2px 10px 2px 10px;
+  border-left: 2px solid #74788D;
+  border-radius: 2px;
+  background: #EFF2F7;
+  color: #343A40;
+  width: 100%;
+  line-height: 25px;
+  font-weight: 600;
+  font-size: 13px;
+  float: left;
+}
+
+
+@media only screen and (max-width: 479px) {
+  .list{width: 100%;}
+}

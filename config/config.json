@@ -1,0 +1,433 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ei-accounts-tiles-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountsTiles/EiAccountsTilesWebPart.js",
+          "manifest": "./src/webparts/eiAccountsTiles/EiAccountsTilesWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-accounts-quick-links-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountsQuickLinks/EiAccountsQuickLinksWebPart.js",
+          "manifest": "./src/webparts/eiAccountsQuickLinks/EiAccountsQuickLinksWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-accounts-overview-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountsOverview/EiAccountsOverviewWebPart.js",
+          "manifest": "./src/webparts/eiAccountsOverview/EiAccountsOverviewWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-account-dashboard-financials-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountDashboardFinancials/EiAccountDashboardFinancialsWebPart.js",
+          "manifest": "./src/webparts/eiAccountDashboardFinancials/EiAccountDashboardFinancialsWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-account-dashboard-divisions-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountDashboardDivisions/EiAccountDashboardDivisionsWebPart.js",
+          "manifest": "./src/webparts/eiAccountDashboardDivisions/EiAccountDashboardDivisionsWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-account-dashboard-competitors-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountDashboardCompetitors/EiAccountDashboardCompetitorsWebPart.js",
+          "manifest": "./src/webparts/eiAccountDashboardCompetitors/EiAccountDashboardCompetitorsWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-account-dashboard-customer-stakeholders-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountDashboardCustomerStakeholders/EiAccountDashboardCustomerStakeholdersWebPart.js",
+          "manifest": "./src/webparts/eiAccountDashboardCustomerStakeholders/EiAccountDashboardCustomerStakeholdersWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-account-dashboard-updates-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountDashboardUpdates/EiAccountDashboardUpdatesWebPart.js",
+          "manifest": "./src/webparts/eiAccountDashboardUpdates/EiAccountDashboardUpdatesWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-edit-account-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiEditAccount/EiEditAccountWebPart.js",
+          "manifest": "./src/webparts/eiEditAccount/EiEditAccountWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-accounts-tiles-details-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountsTilesDetails/EiAccountsTilesDetailsWebPart.js",
+          "manifest": "./src/webparts/eiAccountsTilesDetails/EiAccountsTilesDetailsWebPart.manifest.json"
+        }
+      ]
+    },
+    "account-dashboard-revenue-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/accountDashboardRevenue/AccountDashboardRevenueWebPart.js",
+          "manifest": "./src/webparts/accountDashboardRevenue/AccountDashboardRevenueWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-dropdown-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardDropdown/EngagementDashboardDropdownWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardDropdown/EngagementDashboardDropdownWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-description-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardDescription/EngagementDashboardDescriptionWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardDescription/EngagementDashboardDescriptionWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-meeting-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardMeeting/EngagementDashboardMeetingWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardMeeting/EngagementDashboardMeetingWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-tile-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardTile/EngagementDashboardTileWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardTile/EngagementDashboardTileWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-account-dashboard-program-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountDashboardProgram/EiAccountDashboardProgramWebPart.js",
+          "manifest": "./src/webparts/eiAccountDashboardProgram/EiAccountDashboardProgramWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-account-dashboard-msa-due-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiAccountDashboardMsaDue/EiAccountDashboardMsaDueWebPart.js",
+          "manifest": "./src/webparts/eiAccountDashboardMsaDue/EiAccountDashboardMsaDueWebPart.manifest.json"
+        }
+      ]
+    },
+    "account-dashboard-msa-overdue-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/accountDashboardMsaOverdue/AccountDashboardMsaOverdueWebPart.js",
+          "manifest": "./src/webparts/accountDashboardMsaOverdue/AccountDashboardMsaOverdueWebPart.manifest.json"
+        }
+      ]
+    },
+    "account-dashboard-customer-poc-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/accountDashboardCustomerPoc/AccountDashboardCustomerPocWebPart.js",
+          "manifest": "./src/webparts/accountDashboardCustomerPoc/AccountDashboardCustomerPocWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-revenue-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardRevenue/EngagementDashboardRevenueWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardRevenue/EngagementDashboardRevenueWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-businvolved-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardBusinvolved/EngagementDashboardBusinvolvedWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardBusinvolved/EngagementDashboardBusinvolvedWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-resourcing-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardResourcing/EngagementDashboardResourcingWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardResourcing/EngagementDashboardResourcingWebPart.manifest.json"
+        }
+      ]
+    },
+    "account-dashboard-revenue-actual-revenue-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/accountDashboardRevenueActualRevenue/AccountDashboardRevenueActualRevenueWebPart.js",
+          "manifest": "./src/webparts/accountDashboardRevenueActualRevenue/AccountDashboardRevenueActualRevenueWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-age-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardAge/EngagementDashboardAgeWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardAge/EngagementDashboardAgeWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-opportunities-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardOpportunities/EngagementDashboardOpportunitiesWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardOpportunities/EngagementDashboardOpportunitiesWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-appreciations-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardAppreciations/EngagementDashboardAppreciationsWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardAppreciations/EngagementDashboardAppreciationsWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-escalations-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardEscalations/EngagementDashboardEscalationsWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardEscalations/EngagementDashboardEscalationsWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-risks-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardRisks/EngagementDashboardRisksWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardRisks/EngagementDashboardRisksWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-programs-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardPrograms/EngagementDashboardProgramsWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardPrograms/EngagementDashboardProgramsWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-revenue-leakage-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardRevenueLeakage/EngagementDashboardRevenueLeakageWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardRevenueLeakage/EngagementDashboardRevenueLeakageWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-engagement-kp-is-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardEngagementKpIs/EngagementDashboardEngagementKpIsWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardEngagementKpIs/EngagementDashboardEngagementKpIsWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-growth-trend-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardGrowthTrend/EngagementDashboardGrowthTrendWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardGrowthTrend/EngagementDashboardGrowthTrendWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-css-ratings-trend-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardCssRatingsTrend/EngagementDashboardCssRatingsTrendWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardCssRatingsTrend/EngagementDashboardCssRatingsTrendWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-best-practices-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardBestPractices/EngagementDashboardBestPracticesWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardBestPractices/EngagementDashboardBestPracticesWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-value-addition-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardValueAddition/EngagementDashboardValueAdditionWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardValueAddition/EngagementDashboardValueAdditionWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-strategic-growth-plan-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardStrategicGrowthPlan/EngagementDashboardStrategicGrowthPlanWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardStrategicGrowthPlan/EngagementDashboardStrategicGrowthPlanWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-documents-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardDocuments/EngagementDashboardDocumentsWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardDocuments/EngagementDashboardDocumentsWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-resourcing-rate-card-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardResourcingRateCard/EngagementDashboardResourcingRateCardWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardResourcingRateCard/EngagementDashboardResourcingRateCardWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-resourcing-projects-programs-headcounts-web": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardResourcingProjectsProgramsHeadcounts/EngagementDashboardResourcingProjectsProgramsHeadcountsWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardResourcingProjectsProgramsHeadcounts/EngagementDashboardResourcingProjectsProgramsHeadcountsWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-opportunities-average-time-detail-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardOpportunitiesAverageTimeDetail/EngagementDashboardOpportunitiesAverageTimeDetailWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardOpportunitiesAverageTimeDetail/EngagementDashboardOpportunitiesAverageTimeDetailWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-opportunities-chart-detail-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardOpportunitiesChartDetail/EngagementDashboardOpportunitiesChartDetailWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardOpportunitiesChartDetail/EngagementDashboardOpportunitiesChartDetailWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-appreciations-chart-detail-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardAppreciationsChartDetail/EngagementDashboardAppreciationsChartDetailWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardAppreciationsChartDetail/EngagementDashboardAppreciationsChartDetailWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-escalations-program-detail-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardEscalationsProgramDetail/EngagementDashboardEscalationsProgramDetailWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardEscalationsProgramDetail/EngagementDashboardEscalationsProgramDetailWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-description-edit-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardDescriptionEdit/EngagementDashboardDescriptionEditWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardDescriptionEdit/EngagementDashboardDescriptionEditWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-meetings-updates-expanded-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardMeetingsUpdatesExpanded/EngagementDashboardMeetingsUpdatesExpandedWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardMeetingsUpdatesExpanded/EngagementDashboardMeetingsUpdatesExpandedWebPart.manifest.json"
+        }
+      ]
+    },
+    "engagement-dashboard-revenue-actual-revenue-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/engagementDashboardRevenueActualRevenue/EngagementDashboardRevenueActualRevenueWebPart.js",
+          "manifest": "./src/webparts/engagementDashboardRevenueActualRevenue/EngagementDashboardRevenueActualRevenueWebPart.manifest.json"
+        }
+      ]
+    },
+    "ei-executive-summary-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eiExecutiveSummary/EiExecutiveSummaryWebPart.js",
+          "manifest": "./src/webparts/eiExecutiveSummary/EiExecutiveSummaryWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "EiAccountsTilesWebPartStrings": "lib/webparts/eiAccountsTiles/loc/{locale}.js",
+    "EiAccountsQuickLinksWebPartStrings": "lib/webparts/eiAccountsQuickLinks/loc/{locale}.js",
+    "EiAccountsOverviewWebPartStrings": "lib/webparts/eiAccountsOverview/loc/{locale}.js",
+    "EiAccountDashboardFinancialsWebPartStrings": "lib/webparts/eiAccountDashboardFinancials/loc/{locale}.js",
+    "EiAccountDashboardDivisionsWebPartStrings": "lib/webparts/eiAccountDashboardDivisions/loc/{locale}.js",
+    "EiAccountDashboardCompetitorsWebPartStrings": "lib/webparts/eiAccountDashboardCompetitors/loc/{locale}.js",
+    "EiAccountDashboardCustomerStakeholdersWebPartStrings": "lib/webparts/eiAccountDashboardCustomerStakeholders/loc/{locale}.js",
+    "EiAccountDashboardUpdatesWebPartStrings": "lib/webparts/eiAccountDashboardUpdates/loc/{locale}.js",
+    "ControlStrings": "node_modules/@pnp/spfx-controls-react/lib/loc/{locale}.js",
+    "EiEditAccountWebPartStrings": "lib/webparts/eiEditAccount/loc/{locale}.js",
+    "EiAccountsTilesDetailsWebPartStrings": "lib/webparts/eiAccountsTilesDetails/loc/{locale}.js",
+    "AccountDashboardRevenueWebPartStrings": "lib/webparts/accountDashboardRevenue/loc/{locale}.js",
+    "EngagementDashboardDropdownWebPartStrings": "lib/webparts/engagementDashboardDropdown/loc/{locale}.js",
+    "EngagementDashboardDescriptionWebPartStrings": "lib/webparts/engagementDashboardDescription/loc/{locale}.js",
+    "EngagementDashboardMeetingWebPartStrings": "lib/webparts/engagementDashboardMeeting/loc/{locale}.js",
+    "EngagementDashboardTileWebPartStrings": "lib/webparts/engagementDashboardTile/loc/{locale}.js",
+    "EiAccountDashboardProgramWebPartStrings": "lib/webparts/eiAccountDashboardProgram/loc/{locale}.js",
+    "EiAccountDashboardMsaDueWebPartStrings": "lib/webparts/eiAccountDashboardMsaDue/loc/{locale}.js",
+    "AccountDashboardMsaOverdueWebPartStrings": "lib/webparts/accountDashboardMsaOverdue/loc/{locale}.js",
+    "AccountDashboardCustomerPocWebPartStrings": "lib/webparts/accountDashboardCustomerPoc/loc/{locale}.js",
+    "EngagementDashboardRevenueWebPartStrings": "lib/webparts/engagementDashboardRevenue/loc/{locale}.js",
+    "EngagementDashboardBusinvolvedWebPartStrings": "lib/webparts/engagementDashboardBusinvolved/loc/{locale}.js",
+    "EngagementDashboardResourcingWebPartStrings": "lib/webparts/engagementDashboardResourcing/loc/{locale}.js",
+    "AccountDashboardRevenueActualRevenueWebPartStrings": "lib/webparts/accountDashboardRevenueActualRevenue/loc/{locale}.js",
+    "EngagementDashboardAgeWebPartStrings": "lib/webparts/engagementDashboardAge/loc/{locale}.js",
+    "EngagementDashboardOpportunitiesWebPartStrings": "lib/webparts/engagementDashboardOpportunities/loc/{locale}.js",
+    "EngagementDashboardAppreciationsWebPartStrings": "lib/webparts/engagementDashboardAppreciations/loc/{locale}.js",
+    "EngagementDashboardEscalationsWebPartStrings": "lib/webparts/engagementDashboardEscalations/loc/{locale}.js",
+    "EngagementDashboardRisksWebPartStrings": "lib/webparts/engagementDashboardRisks/loc/{locale}.js",
+    "EngagementDashboardProgramsWebPartStrings": "lib/webparts/engagementDashboardPrograms/loc/{locale}.js",
+    "EngagementDashboardRevenueLeakageWebPartStrings": "lib/webparts/engagementDashboardRevenueLeakage/loc/{locale}.js",
+    "EngagementDashboardEngagementKpIsWebPartStrings": "lib/webparts/engagementDashboardEngagementKpIs/loc/{locale}.js",
+    "EngagementDashboardGrowthTrendWebPartStrings": "lib/webparts/engagementDashboardGrowthTrend/loc/{locale}.js",
+    "EngagementDashboardCssRatingsTrendWebPartStrings": "lib/webparts/engagementDashboardCssRatingsTrend/loc/{locale}.js",
+    "EngagementDashboardBestPracticesWebPartStrings": "lib/webparts/engagementDashboardBestPractices/loc/{locale}.js",
+    "EngagementDashboardValueAdditionWebPartStrings": "lib/webparts/engagementDashboardValueAddition/loc/{locale}.js",
+    "EngagementDashboardStrategicGrowthPlanWebPartStrings": "lib/webparts/engagementDashboardStrategicGrowthPlan/loc/{locale}.js",
+    "EngagementDashboardDocumentsWebPartStrings": "lib/webparts/engagementDashboardDocuments/loc/{locale}.js",
+    "EngagementDashboardResourcingRateCardWebPartStrings": "lib/webparts/engagementDashboardResourcingRateCard/loc/{locale}.js",
+    "EngagementDashboardResourcingProjectsProgramsHeadcountsWebPartStrings": "lib/webparts/engagementDashboardResourcingProjectsProgramsHeadcounts/loc/{locale}.js",
+    "EngagementDashboardOpportunitiesAverageTimeDetailWebPartStrings": "lib/webparts/engagementDashboardOpportunitiesAverageTimeDetail/loc/{locale}.js",
+    "EngagementDashboardOpportunitiesChartDetailWebPartStrings": "lib/webparts/engagementDashboardOpportunitiesChartDetail/loc/{locale}.js",
+    "EngagementDashboardAppreciationsChartDetailWebPartStrings": "lib/webparts/engagementDashboardAppreciationsChartDetail/loc/{locale}.js",
+    "EngagementDashboardEscalationsProgramDetailWebPartStrings": "lib/webparts/engagementDashboardEscalationsProgramDetail/loc/{locale}.js",
+    "EngagementDashboardDescriptionEditWebPartStrings": "lib/webparts/engagementDashboardDescriptionEdit/loc/{locale}.js",
+    "EngagementDashboardMeetingsUpdatesExpandedWebPartStrings": "lib/webparts/engagementDashboardMeetingsUpdatesExpanded/loc/{locale}.js",
+    "EngagementDashboardRevenueActualRevenueWebPartStrings": "lib/webparts/engagementDashboardRevenueActualRevenue/loc/{locale}.js",
+    "EiExecutiveSummaryWebPartStrings": "lib/webparts/eiExecutiveSummary/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,149 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.updatesWrapper{
+  padding: 16px 14px;
+
+  &.updatesWrapperHeight{
+    height: 295px;
+  }
+  .treeWrapper{
+    &.treeHeight{
+      min-height: 225px;
+      max-height: 225px;
+    }
+
+    > ul{
+      display: unset;
+    }
+  } 
+
+  .profileWrapper{
+    &.favourable{
+      border: 2px solid #01B818;
+    }
+    &.unfavourable{
+      border: 2px solid #FF4D50;
+    }
+    &.neutral{
+      border: 2px solid #74788D;
+    }
+    &.needtoestablish{
+      border: 2px solid #B2C2DA;
+    }
+  }
+
+  .tooltipWrap{
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+    border: 1px solid #74788D;
+    border-radius: 2px;
+    background: #EFF2F7;
+    box-shadow: 0px 0px 4px 0px #00000040;
+    text-align: left;
+    max-width: 145px;
+    width: 100%;
+    position: absolute;
+    bottom: 100%;
+    transition: all .5s;
+    opacity: 0;
+    visibility: hidden;
+    margin-bottom: 10px;
+    z-index: 9;
+
+    .name{
+      font-family: 'Poppins';
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 11px;
+      color: #343A40;
+      padding-bottom: 4px;
+    }
+    .designation{
+      font-family: 'Poppins';
+      font-size: 11px;
+      font-weight: 500;
+      line-height: 11px;
+      color: #343A40;
+      padding-bottom: 4px;
+    }
+    .status{
+      font-family: 'Poppins';
+      font-size: 11px;
+      font-weight: 500;
+      line-height: 17px;
+      color: #F8F8FB;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2px 4px 2px 4px;
+      border-radius: 2px;
+      background: #495057;
+
+      &.favourable{
+        background: #01B818;
+      }
+      &.unfavourable{
+        background: #FF4D50;
+      }
+      &.neutral{
+        background: #495057;
+      }
+      &.needtoestablish{
+        background: #B2C2DA;
+      }
+    }
+    .csTableImage{
+      width: 16px;
+      height: 16px;
+    }
+    
+    &::after{
+      position: absolute;
+      content: "";
+      display: block;
+      width: 0px;
+      left: 50%;
+      bottom: -9px;
+      border: 8px solid transparent;
+      border-bottom: 0;
+      border-top: 8px solid #74788D;
+    }
+    &.tooltipRight{
+      left: 105%;
+      top: 5%;
+      bottom: unset;
+
+      &::after{
+        position: absolute;
+        content: "";
+        display: block;
+        width: 0px;
+        top: 50%;
+        left: -9%;
+        bottom: unset;
+        rotate: 90deg;
+        border: 8px solid transparent;
+        border-bottom: 0;
+        border-top: 8px solid #74788D;
+      }
+    }
+  }
+  ul li > div:hover {
+    .tooltipWrap{
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+  ul li::after{
+    border-color: #495057 !important;
+    border-radius: unset !important;
+  }
+  ul li::before{
+    border-color: #495057 !important;
+    border-radius: unset !important;
+  }
+}
+.accountSectionTitle{
+  margin-bottom: 10px;
+}

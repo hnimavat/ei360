@@ -1,0 +1,49 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.pageTitle{
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #343A40;
+  text-transform: uppercase;
+}
+.accountInfoTitle{
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 19.5px;
+  color: #74788D;
+}
+.accountInfoDesc{
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 25px;
+  color: #343A40;
+  white-space: pre-line;
+
+  &::after{
+    content: "\a";
+    white-space: pre;
+  }
+}
+.accountInfo{
+  margin-top: 20px;
+  padding: 16px 14px;
+  box-shadow: 0px 0px 15px 0px #74788D1A;
+  background: #fff;
+
+  .accountOverviewTitleWrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+  }
+}
+.paddingRight{
+  padding-right: 16px;
+}

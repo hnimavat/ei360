@@ -1,0 +1,19 @@
+declare interface IEngagementDashboardCssRatingsTrendWebPartStrings {
+  PropertyPaneDescription: string;
+  BasicGroupName: string;
+  DescriptionFieldLabel: string;
+  AppLocalEnvironmentSharePoint: string;
+  AppLocalEnvironmentTeams: string;
+  AppLocalEnvironmentOffice: string;
+  AppLocalEnvironmentOutlook: string;
+  AppSharePointEnvironment: string;
+  AppTeamsTabEnvironment: string;
+  AppOfficeEnvironment: string;
+  AppOutlookEnvironment: string;
+  UnknownEnvironment: string;
+}
+
+declare module 'EngagementDashboardCssRatingsTrendWebPartStrings' {
+  const strings: IEngagementDashboardCssRatingsTrendWebPartStrings;
+  export = strings;
+}

@@ -1,0 +1,22 @@
+export interface ICustomersStackholders {
+  AccountName: any;
+  Account_Name: string;
+  ReportToId: any;
+  rowData: any;
+  Children: any;
+  ProfileImageUrl: string;
+  Status: any;
+  ID: number;
+  Photo: any;
+  FullName: string;
+  Designation : string;
+  Email: string;
+  LinkedInID: string;
+  RelationwithEIC: string;
+  ManagerEmail: string;
+  AccountNameId: number;
+  BusinessUnit: string;
+  Profile: string;
+  Contact: string;
+  Project: string;
+};

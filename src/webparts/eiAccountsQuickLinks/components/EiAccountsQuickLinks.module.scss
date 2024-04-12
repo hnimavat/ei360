@@ -1,0 +1,80 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.cardWrapper{
+
+  .quickLinkCardWrap{
+    display: flex;
+    background: #fff;
+    border: 1px solid #0af;
+    border-radius: 2px;
+    box-shadow: 0 0 15px 0 #74788d1a;
+    padding: 6px 20px 6px 20px;
+    align-items: center;
+  }
+    .quickLinkCard{
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    
+    &:hover{
+      text-decoration: none;
+    }
+    .quickLinkText{
+      font-family: 'Poppins';
+      font-weight: 400;
+      font-style: normal;
+      font-size: 13px;
+      line-height: 19.5px;
+      color: #343A40;
+    }
+  }
+  .addQuickLink{
+    padding: 10px 20px 10px 20px;
+    background: #fff;
+    border: 1px dashed #00AAFF;
+    border-radius: 2px;
+    box-shadow: 0px 0px 15px 0px #74788D1A;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    height: 100%;
+    &:hover{
+      text-decoration: none;
+    }
+  }
+  .deleteIcon{
+    padding: 6px;
+    border-radius: 4px;
+    color: #F46A6A;
+  }
+}
+.modalPopupHeader{
+  background: #EFF2F7;
+  padding: 10px 20px 10px 20px;
+
+  .modalPopupTitle{
+    font-family: 'Poppins';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 23px;
+    color: #343A40;
+  }
+}
+.modalContent{
+  padding: 20px;
+}
+
+.iconStyle{
+  font-size: 16px;
+  color: #74788D;
+  cursor: pointer;
+}
+.divisionWrapper{
+  padding: 20px;
+  background: #fff;
+}

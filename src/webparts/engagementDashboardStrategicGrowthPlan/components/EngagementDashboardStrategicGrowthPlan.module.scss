@@ -1,0 +1,55 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.modalPopupHeader{
+  background: #EFF2F7;
+  padding: 10px 20px 10px 20px;
+
+  .modalPopupTitle{
+    font-family: 'Poppins';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 23px;
+    color: #343A40;
+  }
+}
+.formChildGap > :not(:first-child) {
+    margin-top: 13px;
+}
+.modalContent{
+  padding: 11px 20px 20px;
+}
+
+.iconStyle{
+  font-size: 16px;
+  color: #74788D;
+  cursor: pointer;
+}
+.dropdownWidth{
+  width: 212px;
+}
+.statusCircleYellow{
+  font-size: 10px;
+  color: #F1B44C;
+}
+.statusCircleRed{
+  font-size: 10px;
+  color: #F46A6A;
+}
+.statusCircleGreen{
+  font-size: 10px;
+  color: #34C38F;
+}
+
+.accordionTable{
+  height: 195px !important;
+}
+.editIcon{
+  color: #00A8B5;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.deleteIcon{
+  color: #F46A6A;
+  cursor: pointer;
+}

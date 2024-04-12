@@ -1,0 +1,109 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+.updatesWrapper{
+  padding: 16px 14px;
+  background: #fff;
+  box-shadow: 0 0 15px 0 #74788d1a;
+  border-radius: 2px;
+
+  .accountSectionTitle{
+    margin-bottom: 10px;
+  }
+
+  .editIcon{
+    color: #00A8B5;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .deleteIcon{
+    color: #F46A6A;
+    cursor: pointer;
+  }
+  .updateDatatableWrap{
+    position: relative;
+    margin-top: -8px;
+    .shareIcon{
+      border: 1px solid #00AAFF;
+      padding: 6px;
+      border-radius: 4px;
+      color: #00AAFF;
+      margin-top: 3px;
+    }
+    .deleteIcon{
+      border: 1px solid #F46A6A;
+      padding: 6px;
+      border-radius: 4px;
+      color: #F46A6A;
+    }
+    .addIcon{
+      border: 1px solid #00AAFF;
+      padding: 6px;
+      border-radius: 4px;
+      color: #fff;
+      background: #00AAFF;
+    }
+  }
+  .TitleUpdates{
+    color: #343a40;
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 13px;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    span{
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+  }
+  .updateFormWrap{   
+    background: #e7f3ff;
+    padding: 10px;
+    float: left;
+    width: 100%;
+
+    button{
+      margin: 0;
+      min-width: auto;
+    }
+  }
+}
+.accountUpdateCheckbox{
+  border-right: 0;
+}
+.modalPopupHeader{
+  background: #EFF2F7;
+  padding: 10px 20px 10px 20px;
+
+  .modalPopupTitle{
+    font-family: 'Poppins';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 23px;
+    color: #343A40;
+  }
+}
+.formChildGap > :not(:first-child) {
+    margin-top: 13px;
+}
+.modalContent{
+  padding: 11px 20px 20px;
+}
+
+.iconStyle{
+  font-size: 16px;
+  color: #74788D;
+  cursor: pointer;
+}
+.categoryTag span{
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 17px;
+  color: #2A3042;
+  padding: 0px 4px 0px 4px;
+  border-radius: 2px;
+}

@@ -1,0 +1,30 @@
+.fileUploder{display: inline-block; width: 100%; vertical-align: top; padding: 20px; border-radius: 2px; box-shadow: 0px 0px 15px 0px #74788D1A; background: #fff; box-sizing: border-box;} 
+.fileUploder .filerDragDrop{display: inline-block; vertical-align: top; align-items: center; padding: 20px; font-family: Poppins; font-size: 15px; font-weight: 600; line-height: 23px;letter-spacing: 0em; text-align: center; color: #74788D; border: 1px dashed #D7DADE; width: 100%; box-sizing: border-box; margin-bottom: 17.41px;}
+.fileUploder .filerDragDrop.drag-over{border-style: solid; background: #E7F3FF;}
+.fileUploder .filerDragDrop span{color: #2A3042;}
+.fileUploder #fileUploderId{display: none;}
+
+.progessBar_wrap{display: inline-block; width: 100%; vertical-align: top; margin-bottom: 14px;}
+.progessBar_wrap .progress_details{ display: flex; align-items: center;display: flex; align-items: center; justify-content: space-between; position: relative; padding-left: 22px; padding-right: 20px;}
+.progessBar_wrap .progress_details .file_icon{width: 12px; left: 0; top: 0; position: absolute; color: #D7DADE;}
+.progessBar_wrap .progress_details .file_Name{display: inline-block; width: auto; vertical-align: top; font-family: Poppins; font-size: 11px; font-weight: 500;line-height: 17px; letter-spacing: 0em; text-align: left; color: #74788D;}
+.progessBar_wrap .progress_details .progress_counter{display: inline-block; width: auto; vertical-align: top; font-family: Poppins; font-size: 11px;  font-weight: 500; letter-spacing: 0em; text-align: left; color: #74788D;}
+.progessBar_wrap .progresing_bar{display: flex; align-items: center; justify-content: space-between; padding-left: 22px;}
+.progessBar_wrap .progresing_bar button{width: auto; height: auto;padding: 0; background: transparent !important; margin-left: 10px;}
+.progessBar_wrap .progresing_bar button i{margin: 0; color: #F46A6A; font-size: 10px; height: 10px; width: 10px; line-height: 10px;}
+.progessBar_wrap .progresing_bar progress{width: 100%; background: #E7F3FF; height: 6px; border-radius: 40px;} 
+.progessBar_wrap .progresing_bar progress {color: #34C38F;}  
+.progessBar_wrap .progresing_bar progress::-webkit-progress-value {background: #34C38F;}  
+.progessBar_wrap .progresing_bar progress::-moz-progress-bar {background: #34C38F;}
+
+.fileUploaded_list{display: inline-block; width: 100%; vertical-align: top;}
+.fileUploaded_list ul{float: left; width: 100%; padding: 0; margin: 0;}
+.fileUploaded_list ul li{float: left; width: 100%; list-style: none; margin-bottom: 10px;}
+.fileUploaded_list .fileAdded_wrap{display: flex; align-items: center;display: flex; align-items: center; justify-content: space-between; position: relative; padding-left: 22px;}
+.fileUploaded_list .fileAdded_wrap .file_icon{width: 12px; left: 0; top: 0; position: absolute; color: #D7DADE;}
+.fileUploaded_list .fileAdded_wrap .file_Name{display: inline-block; width: auto; vertical-align: top; font-family: Poppins; font-size: 11px; font-weight: 500;line-height: 17px; letter-spacing: 0em; text-align: left; color: #74788D; text-overflow: ellipsis; overflow: hidden;}
+.fileUploaded_list .fileAdded_wrap button{width: auto; height: auto;padding: 0; background: transparent !important; margin-left: 10px;}
+.fileUploaded_list .fileAdded_wrap button i{margin: 0; color: #74788D; font-size: 13px; height: 13px; width: 13px;}
+
+.progressBar{display: inline-block; vertical-align: top; width: 100%;  background: #E7F3FF; height: 6px; border-radius: 40px; position: relative;}
+.progressBar .activeProgressbar{display: inline-block; width: auto; vertical-align: top; background: #34C38F; position: absolute; left: 0; top: 0; height: 6px; border-radius: 40px;}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "8766ca91-e5ed-4488-8400-287d351ee000",
+  "alias": "EngagementDashboardMeetingsUpdatesExpand",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart", "TeamsPersonalApp", "TeamsTab", "SharePointFullPage"],
+  "supportsThemeVariants": true,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Advanced" },
+    "title": { "default": "engagementDashboardMeetingsUpdatesExpanded" },
+    "description": { "default": "engagementDashboardMeetingsUpdatesExpanded description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "engagementDashboardMeetingsUpdatesExpanded"
+    }
+  }]
+}
